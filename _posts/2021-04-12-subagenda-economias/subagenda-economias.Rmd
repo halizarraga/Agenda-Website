@@ -1,0 +1,174 @@
+---
+title: "Sub Agenda de Economías Alternativas y Educación Ambiental"
+description: |
+  En este blog se presentan los trabajos relacionados con la mesa temática TRANSVERSAL de Economías Alternativas y Educación Ambiental.
+author:
+  - name: Héctor A. Lizáraga Cubedo
+    url: http://ceakumal.org
+  - name: Alejandra Cornejo Cornejo
+    url: 
+date: 04-08-2021
+output:
+  distill::distill_article: default
+  html_document: 
+    fig_width: 8
+    fig_height: 7
+lang: es
+---
+
+
+```{r EAEAsticker, echo=FALSE, warning=FALSE,message=FALSE, out.width="80%", fig.align="center"}
+
+library(ggimage)
+library(hexSticker)
+library(magick)
+library(grid)
+library(gridExtra)
+library(ggpubr)
+library(ggplot2)
+library(cowplot)
+library(png)
+library(here)
+
+### Economías Alternativas sticker
+imageEAEA <- image_read2(here("../Agenda Website/images/EAEA.png"))
+stickerEAEA <- sticker(imageEAEA, package="E. Alternativas y E. Ambiental", dpi = 600, p_size=6,p_color = "#f7c326",p_x = 1,p_y = 1.43, s_x=1, s_y=.9, s_width=9, s_height =1, asp = .5, h_size = 3, h_color = "#f7e626", h_fill = "#FFFFFF", bg = "transparent",url = "http://www.pngall.com/?p=53795; www.iapqroo.org.mx; https://www.ahtulum.com", u_size = 1.4)
+stickerEAEA
+
+```
+
+
+# Subagenda Economías Alternativas y Educación Ambiental
+
+
+ La subagenda de Economías Alternativas y Educación Ambiental es parte de la Agenda Ecológica que Coordina **Héctor A. Lizárraga Cubedo**, director del [Centro Ecológico Akumal](htpp://ceakumal.org). La coordinadora de esta subagenda es la **Biol. Alejandra Cornejo Miranda**, quien actualmente colabora como "Corporate Social Responsibility Manager" de Colibrí Boutique Hotels.
+
+
+```{r TallerEAEA1, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center',fig.cap="Coordinadora de Economías Alternativas y Educación Ambiental de la Agenda Ecológica", results = 'asis'}
+library(knitr)
+library(here)
+library(grid)
+library(png)
+
+knitr::include_graphics(here("../Agenda Website/images/ALEJANDRA-4-03-21.jpeg"))
+
+```
+
+Alejandra tomó posesión como coordinadora de la **sub agenda de Economías Alternativas y Educación Ambiental**  27 de febrero de 2021 en el Hotel Akumal Bay & Wellness Resort.
+
+
+## PRIMER TALLER DE ECONOMÍAS ALTERNATIVAS Y EDUCACIÓN AMBIENTAL
+
+
+```{r TallerEAEA1.1, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center',fig.cap="Primer taller de Economías Alternativas y Educación Ambiental de la Agenda Ecológica", results = 'asis'}
+library(knitr)
+library(here)
+library(grid)
+library(png)
+
+knitr::include_graphics(here("../Agenda Website/images/EAEA-1.png"))
+
+```
+
+
+ El primer taller de ésta mesa temática se llevó a cabo, de manera presencial, el día 4 de marzo a las 9:00hs en la Sala de Juntas del Centro Ecológico Akumal. Al taller asisistieron los siguientes actores:
+ 
+ - Carlos Meade, de la Red de Tulum Sostenible;
+ 
+ - Karla Acevedo, de la Red de Tulum Sostenible;
+ 
+ - Iztel Trujano, de Flora Funa y Cultura de México, A.C.;
+ 
+ - Elizabeth Bautista, del CEA;
+ 
+ - Alejandra Cornejo, de Colibrí Boutique Hotels;
+ 
+ - Alexis, Tulum Circula;
+ 
+ - Héctor A. Lizárraga Cubedo, del CEA;
+ 
+ - Francisco Hernández, del IAPQROO y equipo.
+ 
+ 
+ Se cuenta con la lista de asistencia, misma que tiene el IAPQROO y que contará como primera evidencia de la reunión. Así mismo, se cuenta con evidencia fotográfica que da cuenta del evento.
+ 
+
+Durante la reunión se solicitó a los presentes se designara un  **secretario técnico** que nos ayude a tomar nota de los acuerdos alcanzados por la mesa, sin embargo no se pudo contar con una persona asignada. De manera protempore el Coordinador de la Agenda Ecológical, Héctor Lizárraga, estará fungiendo como Secretario Técnico.
+
+
+Como parte de los Lineamientos para la realización de esta primera etapa se propusieron los siguientes puntos:
+
+
+1. Un banco de datos e información (mapas, estudios, análisis, hallazgos, encuestas, estadísticas,  bases de datos, aplicaciones, normas, planes, programas, presupuestos, proyectos).
+
+2. Descripción de la situación que engloba el tema, respecto al presente.
+
+3. Definición de la problemática que hay que tomar en cuenta en el corto, mediano y largo plazo.
+
+4. Identificación de CAMBIOS urgentes, en los primeros 100 días de gobierno.
+
+5. Definición de proyectos estratégicos.
+
+6. Identificación de actores claves para incidir en el cambio, tanto personales como institucionales.
+
+7. Identificación de fondos privados o públicos para incidir en el tratamiento del tema que se analiza.
+
+8. Identificación de la infraestructura, recursos humanos y financieros que existen para tratar el tema.
+
+9. Identificación y descripción de instrumentos tecnológicos que hay que tomar en cuenta.
+
+10. Definición de cambios en las relaciones de poder entre gobernantes y gobernados, ponderando esquemas de participación ciudadana, transparencia y rendición de cuentas.
+
+
+
+### Acuerdos del primer taller (4-mar-21)
+
+
+
+ Banco de datos:
+
+Aunque todavía no se genera una base de datos, si se cuenta con las propuestas a incluir en este tema, las cuales son:
+
+- Repensando el progreso, Acercamiento a las Economías alternas (Economía azul, bioeconomía, economía circular, social y solidaria).
+
+- Economía de plástico.
+
+- Economía Circular como factor de las RSE.
+
+- Economía Cicular en el marco normativo de Quintana Roo.
+
+- Economía Circular desde casa.
+
+- Educación Ambiental para la Sustentabilidad.
+
+- Perspectivas de la Educación Ambiental para adultos y jóvenes.
+
+- La Educación Ambiental como herramienta de la RSE.
+
+
+
+ **LISTA DE ACTORES PROPUESTOS PARA PARTICIPAR EN LA MESA DE ECONOMÍAS ALTERNATIVAS Y EDUCACIÓN AMBIENTAL**
+ 
+ - Darío Ferreira Piña;
+ 
+ - Juan Canul, Consultor;
+ 
+ - Centro Comunitario Chemuyil; Itzel de FFyCM, Josefina Galván;
+ 
+ - Akumal Monkey Sanctuary; Nancy Vargas Baena 
+ 
+ - Stephanie Pours, Directora de la Fundación Santuario Akumal; 
+ 
+ - Fundación de las Mujeres de Tulum;
+ 
+ - Katia Courdovier, Directora de la Fundación EcoBahía, 
+ 
+ - Mildred Montesinos, Fundación del Hotel Dreams; 
+ 
+ - Ricardo, del Hotel Nueva Vida de Ramiro;
+ 
+
+ Todos los presentes en la reunión se comprometieron a apoyar para contactar a los actores para así poder contar cn mas información e invitarlos a las próximas reuniones.
+ 
+
+
