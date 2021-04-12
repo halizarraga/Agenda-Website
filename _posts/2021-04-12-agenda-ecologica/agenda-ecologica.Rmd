@@ -1,0 +1,503 @@
+---
+title: "Agenda Ecológica"
+description: |
+  Descripción de la Agenda Ecológica.
+author:
+  - name: Héctor A. Lizáraga Cubedo
+    url: http://ceakumal.org
+date: 04-07-2021
+output:
+  distill::distill_article: default
+  html_document: 
+    fig_width: 7
+    fig_height: 6
+lang: es
+---
+
+
+
+```{r set up,include=FALSE}
+knitr::opts_chunk$set(dev = "ragg_png")
+
+```
+
+# Coordinación de la Agenda Ecológica
+
+
+Esta Agenda fue insalada el 17 de febrero de 2021 en las instalaciones del Centro Ecológico Akumal en reunión presidida por el Li.c  David Ortiz Mena, Presidente de la Asociación de Hoteles de Tulum en conjunto con el Presidente del IAPQROO, Mtro. León Ricardo Lizárraga Cubedo.  
+
+```{r InicioAE, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center', results = 'markup'}
+library(knitr)
+library(here)
+library(grid)
+library(png)
+
+
+knitr::include_graphics(here("../Agenda Website/images/INST-AE-17-02-21.jpg"))
+
+```
+
+
+El coordinador general de la Agenda Ecológica es **Héctor A. Lizárraga Cubedo** quien es a su vez el Director Ejecutivo del [Centro Ecológico Akumal](http://ceakumal.org).
+
+
+
+```{r Hector, echo=FALSE, warning=FALSE,message=FALSE, out.width='50%', fig.align='center', results = 'markup'}
+library(knitr)
+library(here)
+library(grid)
+library(png)
+
+
+knitr::include_graphics(here("../Agenda Website/images/Hector.png"))
+
+```
+
+
+Héctor es oceanólogo de profesión con estudios de maestría y doctorado en ciencias marinas y pesqueras, así como un diplomado en cambio climático.
+
+
+Su especialización le ha permitido trabajar en los sectores académico, productivo (acuicultura y procesamiento de mariscos), privado del sector turístico, del sector gubernamental (estatal y federal) y actualmente del sector social (ambiental). 
+
+
+Con más de 27 años de trabajo su experiencia le ha permitido escribir artículos científicos arbitrados, capítulos de libros y artículos en revistas de difusión en temas de políticas públicas ambientales, pesquerías, reproducción sexual y dinámica poblacional de crustáceos, colaboración en posters sobre la taxonomía y ecología de macroalgas, la presentación en foros, simposia y congresos nacionales e internacionales y pláticas ante una diversidad de grupos y público.
+
+
+Para completar su preparación, el Dr. Lizárraga-Cubedo ha fungido como becario de la Agencia Japonesa de Colaboración Internacional (JICA) para estancia sobre estudios de cambio climático en Japón.
+
+
+Lo anterior le ha permitido contribuir al establecimiento de tres áreas naturales protegidas estatales en Quintana Roo, una Zona de Refugio Pesquero en Akumal y el Área de Refugio de Especies Marinas, bahía de Akumal, así como la participación activa en distintos Consejos Técnicos Asesores, Grupos de Trabajo y redes temáticas como la Red del Agua en México.
+
+
+Su propósito es continuar su labor para el fortalecimiento de las políticas públicas ambientales en Q. Roo y en México y con ello tener mayor incidencia en la conservación y uso sustentable de los recursos naturales.
+
+
+
+# Subagendas de la Agenda Ecológica
+
+
+ Se propusieron 6 sub agendas las cuales son:
+
+- Áreas Naturales Protegidas
+
+- Biodiversidad
+
+- Cambio Climático
+
+- Economías Alternativas y Educación Ambiental
+
+- Residuos Sólidos
+
+- Sargazo
+
+- Sustentabilidad de suelo, aire y agua.
+
+
+ La instalación de las mesas y nombramiento de los coordinadores de cada subagenda fue el día sábado 27 de febrero de 2021 en el Hotel Akumal Bay & Wellness Resort. 
+
+
+
+```{r Subagendas, echo=FALSE, warning=FALSE,message=FALSE, fig.show="hold", fig.cap="Instalación de las Sub Agendas de la Agenda Ecológica ", fig.align='center', results = 'markup'}
+library(knitr)
+library(here)
+library(grid)
+library(png)
+ 
+
+
+knitr::include_graphics(here("../Agenda Website/images/Instalacion-AE.png"))
+
+
+```
+
+
+
+Estuvieron presentes físicamente y de manera virtual mediante la plataforma zoom las siguientes personalidades:
+
+- Lic. David Ortiz Mena López Negrete, Presidente de la Asociación de Hoteles de Tulum
+
+- Mtro. León Ricardo Lizárraga Cubedo, Presidente del Consejo Directivo del Instituto de Administración Pública del Estado de Quintana Roo A.C.
+
+- Dr. Héctor Lizárraga Cubedo, director del Centro Ecológico Akumal
+
+- M. en C. Gonzalo Merediz Alonso, director de Amigos de Sian Ka `an; (Vía zoom)
+
+- Biol. Marco Lazcano Barrero, director de la reserva El Edén
+
+- M. en C. Alejandro López Tamayo, director de Centinelas del Agua
+
+- M. en C. Olmo Torres Talamantes, director de Razonatura
+
+- Biol. Alejandra Cornejo Miranda, Corporate Social Responsibility Manager de Colibrí Boutique Hotels
+
+- Ing. Jesús Elizabeth Bautista Vega, Coordinadora de Educación Ambiental del CEA.
+
+- Karla Acevedo, de la Red Tulum Sostenible, Invitada especial.
+
+
+
+
+
+## Subagenda Áreas Naturales Protegidas
+
+
+
+ El coordinador de esta subagenda es el **M. en C. Gonzalo Merediz Alonso**, quien actualmente es Director de Amigos de Sian ka 'an [Amigos de Sian Kann](https://www.amigosdesiankaan.org).
+ 
+
+ 
+```{r Gonzalo, echo=FALSE, warning=FALSE,message=FALSE, out.width='40%', fig.align='center', results = 'markup'}
+library(knitr)
+
+knitr::include_graphics(here("../Agenda Website/images/Gonzalo.png"))
+
+```
+
+
+  Su semblanza es la siguente:
+  
+  
+  Nacido en la Ciudad de México en 1968, es biólogo egresado de la Facultad de Ciencias de la Universidad Nacional Autónoma de México. Tiene una maestría en biología ambiental por parte de la Universidad Estatal de Nueva York. Desde 1992 ha dedicado sus esfuerzos profesionales a la conservación ambiental y el uso sustentable de los recursos naturales en Quintana Roo, México, con la organización Amigos de Sian Ka'an. Ha trabajado en el estudio de la ecología poblacional de diversas especies animales, destacando los cocodrilos. Ha colaborado con numerosas comunidades rurales mayas en el desarrollo de proyectos productivos y de educación ambiental. Ha contribuido al establecimiento de varias áreas naturales protegidas y al diseño de sus programas de manejo, incluyendo el Área de Protección de Flora y Fauna Bala’an K’aax y, más recientemente, dos reservas en Cozumel y una más en la Laguna Chichakanab, sumando casi 200,000 hectáreas. Además, ha impulsado otras herramientas de política ambiental como ordenamientos territoriales y urbanos. 
+  
+Ha participado en varios proyectos de planeación ambiental, así como en el diseño, obtención de fondos, implementación y supervisión de numerosos proyectos relacionados con la conservación, el desarrollo sustentable y el cambio climático. Ha liderado el esfuerzo de varias instituciones para estudiar y modelar la geohidrología kárstica de Quintana Roo. Ha liderado el proceso de creación de Maya Ka’an, el nuevo destino ecoturístico en la Zona Maya de Quintana Roo. En mayo de 2005 recibió a nombre de Amigos de Sian Ka’an y de manos de la Princesa Ana de Inglaterra, el premio Whitley en apoyo al trabajo comunitario realizado en pos de la conservación. En 2011 obtuvo un reconocimiento especial del Premio VW Por Amor al Planeta y en 2016 recibió, a nombre de sus colaboradores, el Premio Skål de Turismo Sustentable. Actualmente es Presidente del Consejo de Cuenca de la Península de Yucatán y, desde 2006, se desempeña como Director Ejecutivo de Amigos de Sian Ka’an.
+
+
+**Amigos de Sian Ka’an**
+
+Fundada 1986, Amigos de Sian Ka’an se ha convertido en una de las más importantes organizaciones de la sociedad civil de México dedicadas a la conservación del medio ambiente y el desarrollo sustentable. A lo largo de casi 28 años la organización ha extendido su labor a todo el estado de Quintana Roo, logrando que se creen 14 áreas naturales protegidas federales, estatales y privadas, que juntas suman 1.1 millones de hectáreas. Así mismo, Amigos de Sian Ka’an promueve el desarrollo de las comunidades mayas, la conservación de las selvas más extensas de México, los ríos subterráneos más grandes del mundo, los humedales más importantes de Mesoamérica y el segundo arrecife coralino más largo del planeta. Amigos de Sian Ka’an cuenta con un equipo de 27 personas y una Asamblea de Asociados de 29 miembros. Ha sido distinguida con el Premio al Mérito Ecológico 2011 entre 21 reconocimientos más. Amigos de Sian Ka’an basa sus acciones en la ciencia promoviendo alternativas para un mejor uso de los recursos naturales sin confrontación.
+
+
+
+Para ésta subagenda Gonzalo propone los siguientes puntos que serán desarrollados en un primer taller el día 9 de marzo:
+
+
+- ¿Nuevas ANPs?
+
+- Fortalecer las existentes con una visión de cuenca al arrecife
+
+- Vinculación de Comités y Consejo de Cuenca, CONANP, IBANQROO
+
+- Áreas Voluntarias
+
+- Pago por Servicios Ambientales
+
+- Comunicación Social y Educación Ambiental
+
+- Cambio Climático
+
+- Incentivos Fiscales
+
+- Energía limpia
+
+- Ecotecnicas para el Manejo del Agua
+
+
+
+
+
+
+
+## Subagenda Biodiversidad
+
+
+
+ El coordinador de esta subagenda es el **Biol. Marco A. Lazcano Barrero**, quien actualmente es Director de la [Reserva Ecológica El Eden](https://jaguarconservation.mx/marco-a-lazcano-barrero).
+ 
+ 
+  
+```{r Marco, echo=FALSE, warning=FALSE,message=FALSE, out.width='40%', fig.align='center', results = 'markup'}
+
+library(knitr)
+
+knitr::include_graphics(here("../Agenda Website/images/Marco.png"))
+
+```
+
+
+  Su semblanza es la siguente:
+
+Marco, biólogo con especialización en el manejo de vida silvestre, y quien es actualmente Secrertario de la Alianza Nacional para la Conservación del Jaguar A. C., tiene una larga trayectria de trabajo como líder en diversas instituciones académicas y organizaciones conservacionistas, por lo cual ha publicado más de 40 artículos científicos y de divulgación y colaborado con reconocidos naturalistas y científicos de medios televisivos como National Geographic, Animal Planet, Discovery Channel y PBS promoviendo la difusión y divulgación, a nivel internacional, de la mega diversidad biológica que posee nuestro país, generando más de 24 programas y capsulas de Televisión. 
+
+
+El es miembro fundador y copropietario de la Reserva Ecológica El Edén, área natural protegida de carácter privado, establecida en 1993; Cofundador de la Red de Reservas Privadas y Sociales de la Península de Yucatán (RRPSPY), conformada por Pronatura Península de Yucatán A.C., Kaxil Kiuic A.C., Amigos de Sian Ka’an A.C. y Reserva Ecológica el Edén A.C.; Ha consolidado una Red de Monitoreo de Grupos Indicadores de Fauna Silvestre, en la cual participan siete reservas privadas y sociales establecidas de manera voluntaria para conservar la biodiversidad.  
+
+Marco ha coordinado la elaboración tanto de estudios técnicos como los estudios faunísticos de las manifestaciones de impacto ambiental basadas en el foto trampeó del Jaguar y sus presas, sobre los efectos y las medidas de mitigación requeridas para mantener o restablecer la conectividad de las poblaciones del jaguar y la fauna silvestre en cinco carreteras en el sureste de México en los estados de Chiapas, Jalisco y Quintana Roo.  
+
+Actualmente encabeza la iniciativa para el establecimiento y la consolidación del Corredor Biológico Yum  Balam - Sian Ka´any concentra sus esfuerzos en la conservación del hábitat y la recuperación de las poblaciones silvestres de varias especies en peligro de extinciónentre las cuales destacan el Cocodrilo Americano, la Guacamaya Escarlata, el Zopilote Rey, el Tapir, el Ocelote, y coordina la elaboración de la  Estrategia para la Conservación del Jaguar en el Estado de Quintana Roo.
+
+
+
+Para ésta subagenda Marco propone los siguientes puntos que serán desarrollados en un primer taller el día 11 de marzo:
+
+
+- Caracterización de Flora y fauna
+
+- Identificar Objetos de Conservación
+
+- Análisis de Amenazas y Oportunidades
+
+- Planeamiento de Acciones, Políticas Públicas y Medidas de Mitigación para la Conservación y Aprovechamiento Sustentable de la Biodiversidad
+
+
+Y los productos esperados son:
+
+- Bases de Datos listados de Flora y Fauna
+
+- SIG de Biodiversidad, ANPs, etc
+
+- Programas de Prevención y Atención a Conflictos
+
+- Programas de Monitoreo
+
+- Políticas Públicas
+
+- Reglamentos
+
+El equipo de especialistas que integraría esta subagenda es el siguiente:
+
+
+
+
+```{r EquipoBiodiversidad, echo=FALSE, warning=FALSE,message=FALSE, out.width='70%', fig.align='center', results = 'markup'}
+
+library(knitr)
+
+knitr::include_graphics(here("../Agenda Website/images/EquipoBiodiversidad.png"))
+
+```
+
+
+
+
+
+
+
+## Subagenda Cambio Climático y Sargazo
+
+
+
+ El coordinador de esta subagenda es el **M. en C. Olmo Torres Talamantes**, quien actualmente es Director de Razonatura [Razonatura](http://razonatura.org).
+ 
+ 
+ 
+```{r Olmo, echo=FALSE, warning=FALSE,message=FALSE, out.width='40%', fig.align='center', results = 'markup'}
+library(knitr)
+
+knitr::include_graphics(here("../Agenda Website/images/Olmo.png"))
+
+```
+
+ 
+  Su semblanza es la siguente:
+
+
+Biólogo con Posgrado en Ciencias del Mar y Limnologia en programa de excelencia de CONACyT
+Fundador de Razonatura en 2007.
+
+-Experto en Karst
+
+-Más de 10 años de experiencia en proyectos de conservación marina y comunitaria en QRoo
+
+-Asesor en Sistemas de gestión ambiental, social y governanza corporativa
+
+-Colaborador del Proyecto de Cambio Climático ADAPTUR
+
+
+
+
+
+
+## Subagenda Economías Alternativas y Educación Ambiental
+
+
+
+ La coordinadora de esta subagenda es la **Biol. Alejandra Cornejo Miranda**, quien actualmente colabora como "Corporate Social Responsibility Manager" de Colibrí Boutique Hotels.
+ 
+ 
+  
+```{r Alejandra, echo=FALSE, warning=FALSE,message=FALSE, out.width='40%', fig.align='center', results = 'markup'}
+
+library(knitr)
+
+knitr::include_graphics(here("../Agenda Website/images/Alejandra.png"))
+
+```
+
+
+
+ Su semblanza es la siguente:
+ 
+ Bióloga con formación multidisciplinaria; en artes, sociología, museografía y restauración, diplomada en Divulgación de la Ciencia por la UNAM y Maestría en Educación.
+ 
+ 
+Especializada en Educación Ambiental y Educación para la Sustentabilidad con más de 15 años de experiencia. Ha producido diverso material educativo enfocado a la Cultura del Agua y cuidado del medio ambiente, ha trabajado con públicos de todas las edades impartiendo cursos, talleres y conferencias. También ha publicado diversos artículos de divulgación científica y cultura ambiental en México y en el extranjero.
+
+Los proyectos de desarrollo comunitario, comunicación, educación ambiental y procesos participativos son su pasión, debido a lo cual ha desarrollado proyectos abarcando las temáticas de Manejo Integral de Residuos, Manejo Integral de Sargazo, Conservación y Protección de Tortugas Marinas y Gobernanza hídrica entre otros.
+
+Actualmente es Gerente de Responsabilidad Social en Colibri Boutique Hotels, y responsable de los procesos participativos con OSC’s en el Proyecto Integral Tren Maya.
+
+
+
+Para ésta subagenda Alejandra propone los siguientes puntos:
+
+
+- Repensando el progreso- Acercamiento a las Economías alternas (economía azul, bioeconomía, economía circular, social y solidaria) 
+
+- Economía del plástico 
+
+- Economía Circular como factor de la RSE
+
+- Economía Circular en el marco normativo de Quintana Roo 
+
+- Economía circular desde casa 
+
+- Educación Ambiental para la Sustentabilidad 
+
+- Perspectivas de la Educación Ambiental para adultos y jóvenes. 
+
+- La educación Ambiental como herramienta de la RSE
+
+
+Desglosando ésta subagenda transversal se tiene que:
+
+
+**Economías Alternativas**
+
+- Preservar y mejorar el capital natural, controlando existencias finitas y equilibrando los flujos de recursos renovables.
+
+- Optimizar el uso de los recursos, rotando productos, componentes y materiales con la máxima utilidad en todo momento, tanto en los ciclos técnicos como en los biológicos.
+
+- Fomentar la eficacia del sistema, revelando y eliminando externalidades negativas.
+
+- Pone al centro a las personas, no al dinero. 
+
+
+**Educación Ambiental**
+
+- Adoptar un enfoque orientado a la resolución de problemas, al pensamiento crítico y sistémico. 
+
+- Fomenta la acción, no solamente el reconocimiento del entorno. 
+
+- Procesos participativos adecuados incluyentes, considerando el contexto social y cultural.
+
+- Aplicar soluciones a los problemas ambientales basadas en la experiencia local.
+
+
+
+
+
+## Subagenda Residuos Sólidos
+
+
+
+ La coordinadora de esta subagenda es la **Ing. Elizabeth Bautista Vega**, quien actualmente colabora como Coordinadora de Educación Ambiental en el Centro Ecológico Akumal.
+ 
+ 
+  
+```{r Elizabeth, echo=FALSE, warning=FALSE,message=FALSE, out.width='40%', fig.align='center', results = 'markup'}
+library(knitr)
+
+knitr::include_graphics(here("../Agenda Website/images/Elizabeth.png"))
+
+```
+
+
+
+ Elizabeth es nacida en la cuidad de Mazatlán Sinaloa, es Ingeniera ambiental, actualmente cursa maestría en educación. 
+
+Tiene 11 años de experiencia en consultoría en formación de capital humano. En 2017 Ingreso como voluntaria en CEA y desarrollo un programa enfocado en residuos sólidos urbanos llamado Akumal Cero. En 2018 se une como colaborador de CEA y pone en marcha el programa Akumal Cero, además de tener la coordinación de Educación Ambiental a su cargo. 
+
+A participado en mesas de trabajo en la red de educadores ambientales del estado, además de participar en las mesas de trabajo del Reglamento Ley De Prevención, Gestión Integral Y Economía Circular Del Estado De Quintana Roo, y actualmente coordina el programa Reciclatón Municipal en Akumal.
+
+
+Esta subagenda propone los siguientes temas:
+
+
+
+- Diagnóstico de manejo de residuos en el municipio de Tulum
+
+- Modernización e innovación en tecnologías para el tratamiento de residuos y su aprovechamiento
+
+- Responsabilidad institucional y digitalización de trámites administrativos
+
+- Acción ciudadana y responsabilidad compartida
+
+- Introducción y fortalecimiento de la industria recicladora en el municipio
+
+
+
+
+
+## Subagenda Sustentabilidad del Agua, Suelo y Aire
+
+
+
+ El coordinador de esta subagenda es el **M. en C. Alejandro López Tamayo**, quien actualmente es Director de [Centinelas del Agua](https://centinelasdelagua.org).
+ 
+ 
+ 
+```{r Alejandro, echo=FALSE, warning=FALSE,message=FALSE, out.width='40%', fig.align='center', results = 'markup'}
+library(knitr)
+
+knitr::include_graphics(here("../Agenda Website/images/Alejandro.png"))
+
+```
+
+ 
+  Su semblanza es la siguente:
+
+Es Ingeniero Ambiental (U. de Guanajuato) con Maestría en Ciencias en el área de hidrogeología (CICY-UCIA). Ha participado en diversos proyectos de investigación en el área de hidrogeología de sistemas kársticos con instituciones reconocidas a nivel internacional como Northern Illinois University, Technical University of Denmark, Northwestern University ETH Zûrich,University of Neûchatel y Universidad Nacional Autónoma de México.
+
+
+Reconocimiento de Tesis Laureada de Licenciatura, Ganador del Premio al Joven Investigador del Karst 2018 que otorga la Comisión de Karst de la Asociación Internacional de Hidrogeólogos por presentar el estudio más innovador de “Propuesta de Geoparque como Reserva Hidrogeológica del suroeste de Playa del Carmen” durante el congreso [EUROKARST 2018](https://karst.iah.org/young-karst-researcher-prize) en Besanzón, Francia.
+
+
+
+
+En 2013 fue Gerente General de Water Depot. Del 2014 a junio del 2017 se desempeñó como Coordinador del Programa de Conservación de Agua en Amigos de Sian Ka’an A.C. En julio de 2017 ingresa a Centinelas del Agua A.C. como Coordinador de Investigación Científica y Conservación. Miembro fundador de Karst Consultoría en marzo 2018. Docente de la Universidad Anáhuac Cancún impartiendo las materias de Hidrología y Geología desde enero 2020.
+
+
+A partir de enero 2020 se desempeña como Director General de Centinelas del Agua A.C., organización especializada en la conservación del acuífero de la Península de Yucatán y sus ecosistemas asociados.
+
+
+Ha realizado más de 350 ponencias en México, Guatemala, Honduras, Belice y Europa sobre el acuífero de Quintana Roo y el Manejo Integral de Cuencas. Actualmente cuenta con 6 artículos científicos en los que ha participado como colaborador y coautor y 3 artículos de divulgación científica en el área de hidrogeología y educación ambiental, 1 coautoría en libro de Manejo de ANP’s para promotores comunitarios, 1 libro de conservación del acuífero para maestros y educadores ambientales. Ha participado en más de 15 congresos nacionales e internacionales de hidrogeología como ponente. Ha capacitado a más de 14,000 niños, jóvenes y adultos en la preservación del acuífero y sus ecosistemas dependientes. Es miembro de más de 10 Comités de Cuenca, Ecología, Cenotes y Medio Ambiente. Buzo certificado en Aguas Abiertas.
+
+
+Es egresado de la generación 2016 del Programa de Liderazgo en el Sistema Arrecifal Mesoamericano del Fondo Mexicano para la Conservación de la Naturaleza con un proyecto de valoración económica de los servicios ambientales que aporta el acuífero de Quintana Roo y egresado de la generación 2017 del curso “Building Leadership Capacity for Conservation” de The Wildlife Conservation Society. Seleccionado por la UNESCO IHE-Delft Institute for Water Education para representar a América en el taller Diplomacía Juvenil del Agua celebrado en julio 2019 en El Cairo, Egipto. En octubre de 2019 fue seleccionado por el Instituto para la Educación del Agua (IHE Delft) para presentar el estudio de caso de la Gestión Integral del Agua en las Cuencas del Sistema Arrecifal Mesoamericano.
+
+
+Esta subganeda propone los siguientes temas:
+
+
+
+
+- Promover la creación de parques lineales o zonas de reserva natural en las zonas urbanas.
+
+- Establecer las zonas de importancia para recarga del acuífero.
+
+- Promover redes de monitoreo de calidad de agua.
+
+- Lograr mayor eficiencia en los procesos de tratamiento de aguas residuales.
+
+- Establecer acciones de sustentabilidad considerando el sistema kárstico y los ecosistemas dependientes del agua subterránea.
+
+- Elaborar un Plan de Manejo de Residuos Sólidos para cada sector.
+
+- Establecer una campaña de educación ambiental para dar a conocer el acuífero.
+
+- Promover la conexión al drenaje.
+
+
+
+
+## Subagenda Ordenamiento Ambiental y Desarrollo Urbano
+
+
+
+El coordinador de ésta Subagenda es **Héctor A. Lizárraga Cubedo** quien es a su vez el Director Ejecutivo del [Centro Ecológico Akumal](http://ceakumal.org).
+
+
+La propuesta radica en la revisión de los instrumentos de ordenamiento en proceso y/o decretados mediante talleres participativos.
+
+
+

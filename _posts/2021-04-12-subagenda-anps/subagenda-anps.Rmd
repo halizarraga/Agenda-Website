@@ -1,0 +1,214 @@
+---
+title: "Sub Agenda de Áreas Naturales Protegidas"
+description: |
+  En este blog se presentan los trabajos relacionados con la mesa temática de Áreas Naturales Protegidas.
+author:
+  - name: Héctor A. Lizáraga Cubedo
+    url: http://ceakumal.org
+  - name: Gonzalo Merediz Alonso
+    url: https://www.amigosdesiankaan.org
+date: 04-08-2021
+output:
+  distill::distill_article: default
+  html_document: 
+    fig_width: 8
+    fig_height: 7
+lang: es
+---
+
+```{r ANPsticker, echo=FALSE, warning=FALSE,message=FALSE, fig.align="center"}
+
+library(ggimage)
+library(hexSticker)
+library(magick)
+library(grid)
+library(gridExtra)
+library(ggpubr)
+library(ggplot2)
+library(cowplot)
+library(png)
+library(here)
+
+### Áreas Naturales Protegidas sticker
+imageANP <- image_read2(here("../Agenda Website/images/ANP.png"))
+stickerANP <- sticker(imageANP, package="Áreas Naturales Protegidas", dpi = 600, p_size=6.5,p_color = "#506904",p_x = 1,p_y = 1.43, s_x=1, s_y=.9, s_width=9, s_height =1, asp = .5, h_size = 3, h_color = "#506904", h_fill = "#FFFFFF", bg = "transparent",url = "http://www.pngall.com/?p=11125; www.iapqroo.org.mx; https://www.ahtulum.com", u_size = 1.4)
+stickerANP
+
+```
+
+
+# Subagenda Áreas Naturales Protegidas
+
+
+ La subagenda de Áreas Naturales Protegidas es parte de la Agenda Ecológica que Coordina **Héctor A. Lizárraga Cubedo**, director del [Centro Ecológico Akumal](htpp://ceakumal.org).  El coordinador de esta subagenda es el **M. en C. Gonzalo Merediz Alonso**, quien actualmente es Director de Amigos de Sian ka 'an [Amigos de Sian Kann](https://www.amigosdesiankaan.org).
+
+Gonzalo tomó posesión como coordinador de la **sub agenda de Áreas Naturales Protegidas**  27 de febrero de 2021 en el Hotel Akumal Bay & Wellness Resort.
+
+
+## PRIMER TALLER DE ÁREAS NATURALES PROTEGIDAS
+
+
+```{r TallerANP1, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center',fig.cap="Primer taller de Áreas Naturales Protegidas de la Agenda Ecológica", results = 'asis'}
+library(knitr)
+library(here)
+library(grid)
+library(png)
+
+knitr::include_graphics(here("../Agenda Website/images/Taller ANPs-9-mar-21.png"))
+
+```
+
+
+ El primer taller de ésta mesa temática se llevó a cabo, de manera presencial y virtual mediante el uso de la plataforma zoom, el día 9 de marzo a las 11:00hs en el Hotel Akumal Bay & Wellness Resort vía zoom. Al taller asisistieron los siguientes actores:
+ 
+
+- Darío Ferreira;
+
+- Filippo Aureli, Con Mono Maya, A.C.;
+
+- Lucia Diez;
+
+- Xavier Peralta, Contraloría Ciudadana;
+
+- Marco A. Lazcano Barrero, Reserva Ecológica El Edén;
+
+- Gonzalo Merediz Alonso, Amigos de Sian Ka 'an;
+
+- Héctor A. Lizárraga Cubedo, CEA;
+
+- Francisco Hernández, IAPQROO y equipo.
+
+
+
+Esta mesa no cuenta con un Secretario Técnico.
+
+
+Como parte de los Lineamientos para la realización de esta primera etapa se propusieron los siguientes puntos:
+
+
+1. Un banco de datos e información (mapas, estudios, análisis, hallazgos, encuestas, estadísticas,  bases de datos, aplicaciones, normas, planes, programas, presupuestos, proyectos).
+
+2. Descripción de la situación que engloba el tema, respecto al presente.
+
+3. Definición de la problemática que hay que tomar en cuenta en el corto, mediano y largo plazo.
+
+4. Identificación de CAMBIOS urgentes, en los primeros 100 días de gobierno.
+
+5. Definición de proyectos estratégicos.
+
+6. Identificación de actores claves para incidir en el cambio, tanto personales como institucionales.
+
+7. Identificación de fondos privados o públicos para incidir en el tratamiento del tema que se analiza.
+
+8. Identificación de la infraestructura, recursos humanos y financieros que existen para tratar el tema.
+
+9. Identificación y descripción de instrumentos tecnológicos que hay que tomar en cuenta.
+
+10. Definición de cambios en las relaciones de poder entre gobernantes y gobernados, ponderando esquemas de participación ciudadana, transparencia y rendición de cuentas.
+
+
+
+
+### Acuerdos del primer taller (9-mar-21)
+
+Este primer taller trató la importancia de considerar en cualquier programa de trabajo municipal el tema de la Conectividad. Los asistentes resaltaron también la necesidad de bscar esquemas innovadores de políticas públicas para incentivar la creación de nuevas áreas naturales protegidas en el municipio. Sin embargo, se debe de contar con un esquema eficiente de Inspección y Vigilancia para su operación y Manejo. Al respecto Filppo menciona que sí existen esquemas de Co-Manejo donde las comunidades coadyuvan en el manejo de las ANPs, en particular en Otox Ma'x Yetel Koo, la cual tiene varios objetos importantes de conservación. 
+El comanejo aunque esta contemplado en la ley no sea impulsado apropiadamente pero podría ser una muy buena opción. Para ello es importante una mejor comunicación con las comunidades para que conozcan la importancia de las ANPs.
+
+Los Ordenamientos aunque suponen un compromiso entre el gobierno y socieda no han dimensionado eficientemente el tema de la conectividad, los objetos de cosnervación  y no permiten impulsar en decreto de las ANPs. 
+
+El tema de la Reserva hidrgeológica del Norte del Estado que se propuso originalmente en 2008, tal vez no sea un tema a impulsar en el corto plazo, de acuerdo a los presentes, ya que se requiere mayor información sbre los beneficios que este esquema de conservación implica, sobretodo en la falta de esquemas de financiamiento o incentivos fiscales.
+
+
+
+## SEGUNDO TALLER DE ÁREAS NATURALES PROTEGIDAS
+
+
+```{r TallerANP2, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center',fig.cap="Primer taller de Áreas Naturales Protegidas de la Agenda Ecológica", results = 'asis'}
+library(knitr)
+library(here)
+
+knitr::include_graphics(here("../Agenda Website/images/ANP-2.png"))
+
+```
+
+
+ El segundo taller de ésta mesa temática se llevó a cabo, de manera presencial y virtual mediante el uso de la plataforma zoom, el día 31 de marzo a las 11:00hs en el Hotel Akumal Bay & Wellness Resort vía zoom. Al taller asisistieron los siguientes actores:
+ 
+- Pablo Careaga, Tren Maya, sexto tramo;
+
+- Rocío Peralta, Consultora;
+
+- Xavier Peralta, Contraloría Ciudadana;
+
+- Marco. A Lazcano, Reserva Ecológica El Edén;
+
+- Gonzalo Merediz Alonso, Amigos de Sian Ka 'an;
+
+- Héctor A. Lizárraga Cubedo, CEA;
+
+- Francisco Hernández, IAPQROO y equipo.
+
+
+### Acuerdos del segundo taller (31-mar-21)
+
+En este taller Héctor Lizárraga compartió la información disponible pública sobre las ANPs decretadas en el municipio, de carácter públicas, con información sobre nombre y categoría del ANP, fecha de decreto, superficie, si cuenta con Programa de Manejo, si cuenta con categorías especiales como Sitio Ramsar o Patrimonio de la Humanidad. Y se trató la posibilidad de promover el establecimiento de Áreas Voluntarias de Conservación privadas o Ejidales. ara el municiio este último esquema, con gran potencial, no ha sido impulsado.
+
+
+
+También se consultó las **"MEMORIAS DEL TALLER PARA CONSOLIDAR LA RED DE ÁREAS VOLUNTARIAS DE CONSERVACIÓN EN LA PENÍNSULA DE YUCATÁN (https://www.biodiversidad.gob.mx/corredor/pdf/PROFORCO/36-Memoria-Chetumal.pdf"**. En dicho documento se promueve ka red de Áreas de Conserevación privadas o ejidales, resaltando que estos ejercicios han sido posibles en municipios como Othón P. Blanco, José maría Morelos y Felipe Carrillo Puerto, en Quintana Roo. En Tulum NO existe ninguna área de conservación de éste tipo.
+
+
+```{r ANP2.2, echo=FALSE, message=FALSE, fig.align='center', warning=FALSE}
+
+library(kableExtra)
+
+anps <- read.csv(file = "/Users/hectorlizarraga/RStudio/Agenda Website/data/ANP-21.csv", header = T, sep = ",")
+
+kable(head(anps, 15), digits = 2, caption = "Información de las ANPs decretadas en el municipio de Tulum") %>%
+  kable_styling(bootstrap_options = c("striped"),
+                full_width = T,
+                font_size = 10) %>%
+   scroll_box(height = "300px")
+
+```
+
+
+
+Propuesta de acción en ANP, posiblemente impusar algún ANP, sobre todo en conservación de agua.
+
+En Pta Allen, se eta dotando de un sistema solar. El Mpio se tiene que sumar. Se requiere de liderazgo del mpio y sumarse a una estructura de gobernanza, ejemplo de manejo comunitario.
+
+Posiblemente no impulsar la reserva HG tal vez no propuesta como fue originalmente propuesta.
+
+Platicar mas sobre los incentivos fiscales, mpio y congreso del edo. Con la sema ver los mecanismos de incentivos fiscales para desarrollar. Posiblemente ver los impuestosu otros mecanismos de recaudación.
+
+Tratar de armar una estrategia de recaudación-incentivos para que la próxima administración la impulse. 
+
+Se preguntó a Pablo Careaga sobre la consideración del proyecto sobre la conservación de los ecosistemas. El áreas ambiental del proyeco tiene la información. La sugerencia es contactar a los responsables. 
+
+Programa de reubicación de árboles de la carretera.
+
+Ser cuidadosos en presentar nuevas propuestas de ANPs, trabajar mas en una estrategia.
+
+Proponer los esquemas privados de conservación. No hay un programa de largo plazo de incentivo de pagos.
+
+Imlupsar la conservación de los valores naturales.
+
+Pasos de fauna, considerarlos en la Agenda no solo en el contexto del proyecto del tren Maya.
+
+
+
+```{r TallerANP2.3, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center',fig.cap="Evidencia del segundo taller de Áreas Naturales Protegidas de la Agenda Ecológica", results = 'asis'}
+library(knitr)
+library(here)
+
+knitr::include_graphics(here("../Agenda Website/images/ANP-31-03-21-foto.png"))
+
+```
+
+
+
+
+
+
+
