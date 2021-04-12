@@ -1,0 +1,630 @@
+---
+title: "Sub Agenda de Residuos Solidos"
+description: |
+  En este blog se presentan los trabajos relacionados con la mesa temática de Residuos Sólidos
+author:
+  - name: Héctor A. Lizáraga Cubedo
+    url: http://ceakumal.org
+  - name: Elizabeth Bautista Vega
+    url: http://ceakumal.org
+date: 04-07-2021
+output:
+  distill::distill_article: default
+  html_document: 
+    fig_width: 7
+    fig_height: 6
+lang: es
+---
+
+
+
+```{r RSsticker, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center'}
+
+library(ggimage)
+library(hexSticker)
+library(magick)
+library(grid)
+library(gridExtra)
+library(ggpubr)
+library(ggplot2)
+library(cowplot)
+library(png)
+library(here)
+
+### Residuos Sólidos sticker
+imageRS <- image_read2(here("../Agenda Website/images/RSlogo.png"))
+stickerRS <- sticker(imageRS, package="Residuos Sólidos", dpi = 600, p_size=6.5,p_color = "#8b6313",p_x = 1,p_y = 1.65, s_x=1, s_y=1, s_width=9, s_height =1, asp = .5, h_size = 3, h_color = "#8b6313", h_fill = "#FFFFFF", bg = "transparent",url = "http://www.pngall.com/?p=11146; www.iapqroo.org.mx; https://www.ahtulum.com", u_size = 1.4)
+stickerRS
+
+```
+
+
+# Subagenda Residuos Sólidos
+
+
+ La subagenda de Residos Sólidos es parte de la Agenda Ecológica que Coordina **Héctor A. Lizárraga Cubedo**, director del [Centro Ecológico Akumal](htpp://ceakumal.org). La coordinadora de esta subagenda es la **Ing. Elizabeth Bautista Vega**, quien actualmente colabora como Coordinadora de Educación Ambiental de la misma organización.
+ 
+Elizabeth tomó posesión como coordinadora de la **sub agenda de Residuos Sólidos** el 27 de febrero de 2021 en el Hotel Akumal Bay & Wellness Resort.
+
+ 
+```{r Coordinadora, echo=FALSE, warning=FALSE,message=FALSE, fig.align= "center", fig.cap="Coordinadora de Residuos Sólidos de la Agenda Ecológica", results = 'asis'}
+library(knitr)
+library(here)
+library(grid)
+library(png)
+
+
+knitr::include_graphics(here("../Agenda Website/images/ELIZABETH-4-03-21.jpeg"))
+
+```
+
+
+
+
+
+## PRIMER TALLER DE RESIDUOS SÓLIDOS
+
+ 
+```{r TallerRS1, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center',fig.cap="Primer taller de Residuos Sólidos de la Agenda Ecológica", results = 'asis'}
+library(knitr)
+library(here)
+
+knitr::include_graphics(here("../Agenda Website/images/NOTA-RS-1er-taller-4-03-21.jpeg"))
+
+```
+
+
+
+ El primer taller de ésta mesa temática se llevó a cabo, de manera presencial, el día 4 de marzo a las 9:00hs en la Sala de Juntas del Centro Ecológico Akumal. Al taller asisistieron los siguientes actores:
+ 
+ - Carlos Meade, de la Red de Tulum Sostenible;
+ 
+ - Karla Acevedo, de la Red de Tulum Sostenible;
+ 
+ - Iztel Trujano, de Flora Funa y Cultura de México, A.C.;
+ 
+ - Elizabeth Bautista, del CEA;
+ 
+ - Héctor A. Lizárraga Cubedo, del CEA;
+ 
+ - Francisco Hernández, del IAPQROO y equipo.
+ 
+ 
+ Se cuenta con la lista de asistencia, misma que tiene el IAPQROO y que contará como primera evidencia de la reunión. Así mismo, se cuenta con evidencia fotográfica que da cuenta del evento.
+ 
+
+Durante la reunión se solicitó a los presentes se designara un  **secretario técnico** que nos ayude a tomar nota de los acuerdos alcanzados por la mesa, sin embargo no se pudo contar con una persona asignada. De manera protempore el Coordinador de la Agenda Ecológical, Héctor Lizárraga, estará fungiendo como Secretario Técnico.
+
+
+Como parte de los Lineamientos para la realización de esta primera etapa se propusieron los siguientes puntos:
+
+
+1. Un banco de datos e información (mapas, estudios, análisis, hallazgos, encuestas, estadísticas,  bases de datos, aplicaciones, normas, planes, programas, presupuestos, proyectos).
+
+2. Descripción de la situación que engloba el tema, respecto al presente.
+
+3. Definición de la problemática que hay que tomar en cuenta en el corto, mediano y largo plazo.
+
+4. Identificación de CAMBIOS urgentes, en los primeros 100 días de gobierno.
+
+5. Definición de proyectos estratégicos.
+
+6. Identificación de actores claves para incidir en el cambio, tanto personales como institucionales.
+
+7. Identificación de fondos privados o públicos para incidir en el tratamiento del tema que se analiza.
+
+8. Identificación de la infraestructura, recursos humanos y financieros que existen para tratar el tema.
+
+9. Identificación y descripción de instrumentos tecnológicos que hay que tomar en cuenta.
+
+10. Definición de cambios en las relaciones de poder entre gobernantes y gobernados, ponderando esquemas de participación ciudadana, transparencia y rendición de cuentas.
+
+
+
+### Acuerdos del primer taller (4-mar-21)
+
+
+
+ Banco de datos:
+
+- Se tienen encuestas con un diagnóstico social, 
+**"Diagnóstico de percepción social para el manejo de residuos sólidos"** - Tulum Sostenible, con 800 encuestas (representa aprox 2% de la población).
+
+- Este documento incluye Propuesta de Educación y Comunicación para Residuos Sólidos.
+
+- El consultor Juan Canul, tienen copia en la Dir. de Ordenamiento Ambiental y Cambio Climático del H. Ayuntaminto de Tulum.
+
+- Programa de Punto Limpios, impulsa Tulum Sostenible, a partir del 2019, capta aproximadamente 1ton de residuos reciclables (por módulo) con 2 módulos en la actualidad y en 2021 se tendrían 12. Un módulo por colonia, elegidas de acuerdo a un criterio de participación ciudadana con análisis de zonas urbanas. Tienen señalización para cada módulo, con 6-7 categorías. Infraestructura es de desecho de metal con polialuminio compactado.
+
+
+- Esta dirigido a ciudadanos-domicilios, no a empresas. 
+
+- En el reglamento de ecología municipal se establece que es una responsabilidad la separación de residuos sólidos urbanos. No se implementa por el municipio.
+
+- ¿Cuánto se ha colectado en los módulos desde que inició y por tipo de residuo? Esta información lo compartirían Tulum Sustentable y el CEA en la próxima reunión.
+
+
+- Darío Ferreira Piña tiene un diagnóstico de tiraderos clandestinos, para solicitarle la información.
+
+
+- En la zona hotelera se tienen los grandes generadores. ¿Realmente los hoteles tienen sus Planes de Manejo?
+
+- Normativa.
+
+- Solicitud de la información. 
+
+
+- El CEA también tiene encuestas que compatiría.
+
+- El CEA cuenta con el mapeo de empresas de Akumal, zona hotelera y poblado.
+
+- El CEA presentará los datos del programa **"Akumal Cero"** con estadísticas de separación, por tipo y toneladas estimadas (ver anexo Segundo Taller).
+
+- El CEA proporcionará el listado de empresas que han contado con capacitación de residuos sólidos urbanos.
+
+
+
+ **LISTA DE ACTORES PROPUESTOS PARA PARTICIPAR EN LA MESA DE RESIDUOS SÓLIDOS**
+ 
+ - Darío Ferreira Piña;
+ 
+ - Juan Canul, Consultor;
+ 
+ - Centro Comunitario Chemuyil; Itzel de FFyCM, Josefina Galván;
+ 
+ - Akumal Monkey Sanctuary; Nancy Vargas Baena 
+ 
+ - Stephanie Pours, Directora de la Fundación Santuario Akumal; 
+ 
+ - Fundación de las Mujeres de Tulum;
+ 
+ - Katia Courdovier, Directora de la Fundación EcoBahía, 
+ 
+ - Mildred Montesinos, Fundación del Hotel Dreams; 
+ 
+ - Ricardo, del Hotel Nueva Vida de Ramiro;
+ 
+
+ Todos los presentes en la reunión se comprometieron a apoyar para contactar a los actores para así poder contar cn mas información e invitarlos a las próximas reuniones.
+ 
+ 
+ Por su parte Carlos Meade manifesto su interés en hacer una presentación con resultados del programa  de puntos limpios para la próxima reunión.
+ 
+ 
+ Se propone que la próxima reunión sería el viernes 12 de marzo a las 9:00hs en la Sala de Juntas del CEA.
+ 
+ 
+ 
+## SEGUNDO TALLER DE RESIDUOS SÓLIDOS
+
+
+ 
+```{r TallerRS2, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center',fig.cap="Segundo taller de Residuos Sólidos de la Agenda Ecológica",  results = 'asis'}
+library(knitr)
+library(here)
+
+knitr::include_graphics(here("../Agenda Website/images/RS-2do-taller-18-03-21-fotos.jpeg"))
+
+```
+
+
+
+ El segundo taller de ésta mesa temática se llevó a cabo el día 18 de marzo a las 9:00hs en la Sala de Juntas del Centro Ecológico Akumal y se realizó en conjunto con la mesa de la **sub agenda de Economías Alternativas y Educación Ambiental**. Al taller asisistieron los siguientes actores:
+ 
+ - Carlos Meade, de la Red de Tulum Sostenible;
+ 
+ - Karla Acevedo, de la Red de Tulum Sostenible;
+ 
+ - Iztel Trujano, de Flora Funa y Cultura de México, A.C.;
+ 
+ - Elizabeth Bautista, del CEA;
+ 
+ - Héctor A. Lizárraga Cubedo, del CEA;
+ 
+ - Francisco Hernández, del IAPQROO y equipo.
+ 
+ - Alejandra Cornejo Miranda, Corporate Social Responsibility Manager" de Colibrí Boutique Hotels.
+ 
+ 
+ Se cuenta con la lista de asistencia, misma que tiene el IAPQROO y que contará como primera evidencia de la reunión. Así mismo, se cuenta con evidencia fotográfica que da cuenta del evento.
+ 
+ 
+
+### Acuerdos del segundo taller (18-mar-21)
+
+
+Se requiere compartir la información que tiene cada actor. El CEA presenta la información histórica que posee de su programa **"Akumal Cero"**, misma que se anexa a los acuerdos de ésta reunión.
+
+De la misma manera y como acuerdo de la primer reunión Darío Ferreira Piña compartió el estudio denominado **"REGISTRO DE TIRADEROS CLANDESTINOS DEL MUNICIPIO DE TULUM, QUINTANA ROO"**. Dicho estudio resalta que:
+
+De acuerdo a este autor se considera como basurero clandestino:
+- lugar donde se depositan de $4m^3$ o más de desechos en lugares no autorizados por
+el Departamento.
+- La basura depositada en estos lugares puede ser segura o peligrosa.
+- La basura segura puede ser legalmente remitida a un relleno sanitario que tenga
+como plan la recuperación de biogas.
+
+
+RESULTADOS
+
+Durante el mes de agosto del 2018, se registraron 30 tiraderos clandestinos de mayor importancia, que incluyen dos cenotes y un tiradero al costado de una ruina en Akumal. 21 de importancia media y 43 de menor importancia. Aproximadamente hay **8,318 m3** de residuos en los tiraderos, de los cuales, la mayor parte son materiales de construcción, materiales de techos de palma y pastos, luego residuos plásticos, vidrios, playo, luego domésticos, residuos de negocios, llantas, residuos electrónicos y de mataderos de pollos. En total se cuentan **54 tiraderos clandestinos importantes y algo importantes, y 43 menos importantes**.
+
+
+Finalmente, el estudio recomienda la aplicación de metodología que considere llevar a cabo recorridos con el fin de detectar y registrar los tiraderos clandestinos, en cuatro etapas desde la "Preparación", "Registro fotográfico y llenado de bitácoras de campo", "Procesamiento y digitalización de la información", y "Reporte".
+
+
+Por su parte, el CEA compartió los datos de colecta de su programa **"Akumal Cero""**  para el periodo 2017-2020.
+ 
+ 
+
+```{r waste, echo=FALSE, message=FALSE, fig.show='hold', fig.align='center', warning=FALSE}
+
+
+library(dplyr)
+library(tidyverse)
+
+reciclaton <- read.csv(file="/Users/hectorlizarraga/RStudio/Agenda Website/data/reciclaton2017_20.csv", header = T, sep = ",")
+
+totalwaste <- reciclaton %>%
+  select_if(~ !all(is.na(.))) %>%
+  gather(Residuo, "Peso", "Papel", 3:21) %>%
+  count(Peso)
+
+totalwaste.1 = sum(totalwaste$Peso[1:238])
+  
+vidrio <- reciclaton %>%
+  select_if(~ !all(is.na(.))) %>%
+  select(Vidrio) %>%
+  count(Vidrio)
+
+vidrio.1 = sum(vidrio$Vidrio[1:32])
+
+carton <- reciclaton %>%
+  select_if(~ !all(is.na(.))) %>%
+  select(Carton) %>%
+  count(Carton)
+
+carton.1 = sum(carton$Carton[1:32] * carton$n[1:32])
+
+totalcompanies <-  reciclaton %>%
+  select_if(~ !all(is.na(.))) %>%
+  select(Empresas) %>%
+  count(Empresas)
+
+totalcompanies.1 = sum(totalcompanies$Empresas[1:19] * totalcompanies$n[1:19])
+
+
+totalhouses <- reciclaton %>%
+  select_if(~ !all(is.na(.))) %>%
+  select(Casas) %>%
+  count(Casas)
+
+totalhouses.1 = sum(totalhouses$Casas[1:14] * totalhouses$n[1:14])
+totalrecicla1720 <- read.csv(file = "/Users/hectorlizarraga/RStudio/Agenda Website/data/totalrecicla1720.csv", header =T, sep = ",")
+
+```
+
+
+
+Este programa consiste en trabajar y organizar a la comunidad de Akumal para eficientar el uso, reúso, reciclaje de residuos, su separación por tipo y colecta final. Se ha venido trabajando desde 2017 en coordinación con el municipio de Tulum y una compañía especializada en la colecta y tratamiento de residuos sólidos, mismo que comprende la ruta de colecta de Akumal Norte y Akumal Pueblo. El último viernes de cada mes el residuo colectado se llevó al Domo de Akumal, sitio autorizado por el municipio, y se pesó.
+
+
+ En el programa participaron empresas y casas-habitación. 
+
+
+
+#### Peso colectado período 2017-2020
+
+
+En el período de  2017-2020,  se colectó un total de   `r totalwaste.1`kg, con un total de  `r totalcompanies.1` compañías  y `r totalhouses.1` casas participando en el programa.  
+
+```{r waste2, echo=FALSE, message=FALSE, fig.cap="Colecta histórica de residuos sólidos, compañías y casas participantes en Akumal durante 2017-2020.", fig.show='hold', fig.align='center', warning=FALSE}
+
+library(grid)
+library(gridExtra)
+library(ggpubr)
+
+par(mfrow=c(3,1))
+
+pr1 <- ggplot(totalrecicla1720, aes(x = Year, y = Residuo)) +
+        geom_col(fill="lightgray", col = "lightgrey")+
+  geom_text(aes(label = Residuo, hjust = 0.5, vjust = 0), 
+            position = position_dodge(width = 1),col = "black", size = 2.2)+
+  labs(title = "",
+       x = "Año",
+       y = "Peso del residuo (kg)") +
+  ylim(0, 55000) +
+  theme_bw() +
+  theme(axis.title.y = element_text(size = 5)) +
+  theme(axis.title.x = element_text(size = 5)) +
+  theme(axis.text.y = element_text(size = 4)) +
+  theme(axis.text.x = element_text(size = 4)) +
+  theme(panel.grid.major.x = element_blank()) +
+  theme(axis.ticks.x = element_blank(), axis.text.x = element_text(size = 4)) +
+  theme(axis.ticks.y = element_blank(), axis.text.y = element_text(size = 4)) 
+  
+
+pr2 <- ggplot(totalrecicla1720, aes(x = Year, y = Empresas)) +
+        geom_col(fill= "darkgrey", col = "darkgrey") +
+  geom_text(aes(label = Empresas, hjust = 0.5, vjust = 0), 
+            position = position_dodge(width = 1),col = "black", size = 2.2)+
+  labs(title = "",
+       x = "Año",
+       y = "# Compañías") +
+  ylim(0, 220) +
+   theme_bw() +
+  theme(axis.title.y = element_text(size = 5)) +
+  theme(axis.title.x = element_text(size = 5)) +
+  theme(axis.text.y = element_text(size = 4)) +
+  theme(axis.text.x = element_text(size = 4)) +
+  theme(panel.grid.major.x = element_blank()) +
+  theme(axis.ticks.x = element_blank(), axis.text.x = element_text(size = 4)) +
+  theme(axis.ticks.y = element_blank(), axis.text.y = element_text(size = 4)) 
+          
+pr3 <- ggplot(totalrecicla1720, aes(x = Year, y = Casas)) +
+        geom_col(fill= "brown", col = "brown") +
+  geom_text(aes(label = Casas, hjust = 0.5, vjust = 0), 
+            position = position_dodge(width = 1),col = "black", size = 2.2)+
+  labs(title = "",
+       x = "Año",
+       y = "# Casas") +
+  ylim(0, 140) +
+  theme_bw() +
+  theme(axis.title.y = element_text(size = 5)) +
+  theme(axis.title.x = element_text(size = 5)) +
+  theme(axis.text.y = element_text(size = 4)) +
+  theme(axis.text.x = element_text(size = 4)) +
+  theme(panel.grid.major.x = element_blank()) +
+  theme(axis.ticks.x = element_blank(), axis.text.x = element_text(size = 4)) +
+  theme(axis.ticks.y = element_blank(), axis.text.y = element_text(size = 4)) 
+ 
+grid.arrange(pr1, pr2, pr3,
+  widths = c(2, 1, 1),
+  layout_matrix = rbind(c(1, 2, 2),
+                        c(1, 3, 3))
+)
+
+```
+
+
+Históricamente, 2018 fue el año con la cantidad más grande de residuos colectados con mas de **53** tons de residuos  y **183** compañías y **123** casas participando en el programa.
+
+
+
+#### Residuo colectado anualmente por tipo
+
+
+
+```{r waste3, echo=FALSE, fig.align='center', fig.cap="Datos históricos del Reciclatón en Akumal por tipo de resíduo.", message=FALSE, warning=FALSE}
+
+library(ggplot2)
+library(ggpubr)
+
+waste1720 <- read.csv(file = "/Users/hectorlizarraga/RStudio/Agenda Website/data/wasteweight1720.csv", header = T, sep = ",")
+
+pw1 <- waste1720 %>%
+  select(Year, Mes, Residuo, Peso) %>%
+  mutate(Mes1 = fct_relevel(Mes, 
+                              c("Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio",
+                                "Agosto", "Septiembre", "Octubre", "Noviembre", "Deciembre"))) 
+
+ggplot(pw1,aes(Residuo, Peso, fill = Residuo)) +
+  geom_col() +
+  facet_grid(~Year,
+             scales = "free_x")+
+  ylab("Peso de residuo (kg)") + xlab("") +
+  theme(axis.text.x = element_text(angle = 45, size = 5)) +
+  theme(axis.text.y = element_text(size = 5)) +
+  theme(axis.title.x = element_text(size = 5)) +
+  theme(axis.title.y = element_text(size = 5)) +
+  theme(strip.text = element_text(size = 5)) +
+  theme(legend.position = "none") +
+  coord_flip()
+
+
+```
+
+
+
+Por tipo el "vidrio" es el residuo más numeroso con  **`r vidrio.1`** kg, mientras que el "Cartón" es el residuo  segundo más numeroso   con un total de  **`r carton.1`** kg.
+
+
+
+#### Residuo colectado mensualmente por tipo
+
+
+
+Marzo, mayo y agosto son los meses con registros de mayores cantidades de residuos sólidos colectados desde 2017.
+
+
+```{r waste4, echo=FALSE, message=FALSE, fig.cap="Datos mensuales del Reciclatón de Akumal y por tipo de residuo.", fig.align='center', warning=FALSE}
+
+library(ggplot2)
+library(ggpubr)
+
+waste1720 <- read.csv(file = "/Users/hectorlizarraga/RStudio/Agenda Website/data//wasteweight1720.csv", header = T, sep = ",")
+
+pw1 <- waste1720 %>%
+  select(Year, Mes, Residuo, Peso) %>%
+  mutate(Mes1 = fct_relevel(Mes, 
+                              c("Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio",
+                                "Agosto", "Septiembre", "Octubre", "Noviembre", "Deciembre")))  
+
+ggplot(pw1,aes(Residuo, Peso, fill = Residuo)) +
+  geom_col() +
+  facet_grid(~Mes1,
+             scales = "free_x")+
+  ylab("Peso colectado (kg)") + xlab("") +
+ theme(axis.text.x = element_text(angle = 45, size = 5)) +
+  theme(axis.text.y = element_text(size = 5)) +
+  theme(axis.title.x = element_text(size = 4)) +
+  theme(axis.title.y = element_text(size = 4)) +
+  theme(strip.text = element_text(size = 4)) +
+  theme(legend.position = "none") +
+  coord_flip()
+```
+
+
+
+
+ 
+## TERCER TALLER DE RESIDUOS SÓLIDOS
+
+
+ 
+```{r TallerRS3.1, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center', fig.cap="Evidencia fotográfica del tercer taller de Residuos Sólidos de la Agenda Ecológica",  results = 'asis'}
+library(knitr)
+
+knitr::include_graphics(here("../Agenda Website/images/RS-3er-taller1-4-25-03-21.png"))
+
+```
+
+
+
+
+ El tercer taller de ésta mesa temática se llevó a cabo el día 25 de marzo a las 10:00hs en la Sala de Juntas del Centro Ecológico Akumal. Al taller asistieron los siguientes actores:
+ 
+ - Carlos Meade, de la Red de Tulum Sostenible;
+ 
+ - Karla Acevedo, de la Red de Tulum Sostenible;
+ 
+ - Iztel Trujano, de Flora Funa y Cultura de México, A.C.;
+ 
+ - Elizabeth Bautista, del CEA;
+ 
+ - Héctor A. Lizárraga Cubedo, del CEA;
+ 
+ - Francisco Hernández, del IAPQROO y equipo.
+ 
+ - Stephanie Pours, Directora de la Fundación Santuario Akumal;
+ 
+ - Katia Courdorier, Directora Fundación EcoBahía;
+ 
+ 
+ Se cuenta con la lista de asistencia, misma que tiene el IAPQROO y que contará como primera evidencia de la reunión. Así mismo, se cuenta con evidencia fotográfica que da cuenta del evento.
+ 
+ 
+ 
+
+### Acuerdos del tercer taller (25-mar-21)
+
+
+ Banco de datos:
+
+-Carlos Meade presentó **"Elementos para un Programa Integral de Gestión Integral de Residuos Sólidos en el Municipio de Tulum"**, el cual incluye el diagnóstico del manejo de residuos en el municipio, contemplando talleres, entrevistas y encuestas.
+
+Carlos compartió la presentación.
+
+La reunión trató de retomar la propuesta de un mejor manejo de residuos. Se propone que el PGIRS del Municipio sea el plan rector para residuos pero el consultor lleva un avance del 40%.
+
+Elizabeth presentó varias láminas con una metodología propuesta:
+
+1- Revisión y análisis de experiencias y casos específicos.
+
+2- Revisión y análisis del diagnóstico participativo:
+
+  -Identificar el problema
+  -Examinar los efectos que provoca el problema
+  -Identificar las causas del problema
+  -Establecer la situación deseada (objetivo)
+  -Identificar medios para la solución del problema
+  -Definir acciones y configurar alternativas
+  
+
+
+
+
+
+
+
+## CUARTO TALLER DE RESIDUOS SÓLIDOS
+
+
+ 
+```{r TallerRS4, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center', fig.cap="Cuarto taller de Residuos Sólidos de la Agenda Ecológica",  results = 'asis'}
+library(knitr)
+library(here)
+
+knitr::include_graphics(here("../Agenda Website/images/RS-4to-taller-6-04-21.png"))
+
+```
+
+
+
+ El cuarto taller de ésta mesa temática se llevó a cabo el día 6 de abril a las 16:00hs en el Hotel Akumal Bay & Wellness Resort, y mediante el uso de la plataforma ZOOM. Al taller asisistieron los siguientes actores:
+ 
+ - Carlos Meade, de la Red de Tulum Sostenible;
+ 
+ - Karla Acevedo, de la Red de Tulum Sostenible;
+ 
+ - Iztel Trujano, de Flora Funa y Cultura de México, A.C.;
+ 
+ - Elizabeth Bautista, del CEA;
+ 
+ - Héctor A. Lizárraga Cubedo, del CEA;
+ 
+ - Francisco Hernández, del IAPQROO y equipo;
+ 
+ - Gisela Maldonado, Consultora;
+ 
+ - Rocío Peralta, Ayuntamiento de Tulum;
+ 
+ - Darío, de la Red de Tulum Sostenible;
+ 
+ - Juan Canul, Consultor;
+ 
+ - Stephanie Pouls, Directora de la Fundación Santuario Akumal;
+ 
+ 
+ 
+ 
+ 
+### Acuerdos del cuarto taller (6-abr-21)
+
+
+ Elizabeth presentó los cuerdos alcanzados en los tres previos talleres lo cual precedió  a la presentación de la Biol.Rocío Peralta, representante de la Dirección de Ordenamiento y Cambio Climático del H. Ayuntamiento de Tulum.
+
+
+
+ Por su parte, la biol Peralta compartió información relacionada con el programa de Residuos Sólidos del municipio.
+ 
+ Si bien los datos presentados por Rocío son hasta octubre del 2020 esto nos brindó la posibilidad de conocer a mayor detalle el programa del Municipio de Tulum en materia de Residuos Sólidos de los cuales resalta:
+ 
+ - Programas Municipales;
+ 
+ - Campañas como el "Llantatón"
+ 
+ - Sistema de Manejo Ambiental
+ 
+ - Educación y Concientización Ambiental
+ 
+ - Normatividad
+ 
+ 
+ En cuanto a **"Programas Municipales"** resalta:
+ 
+  - "Adopta Vida" que consiste en intercambiar plantas nativas a las personas o empresas que entreguen sus residuos de acuerdo a cierta clasificación, con **5** empresas participantes proporcionando las plantas.
+  
+  - "Reciclatón" que consiste en trabajar en la colecta y separación de residuos sólidos de cierto tipo. Se cuenta con 5 rutas "Palacio Municipal; Chedrahui; Domo de Akumal; Centro Comunitario La Ceiba; y Domo de Macario Gómez". Este programa esta dirigido a Casas Habitación y Negocios.
+  
+  - "Colecta de Reciclables en la ciudad de Tulum", inició en 2017, con ruta de martes y viernes, 8 días al mes, con las empresas RECICLEMOS y SMEC. Con estimaciones de 15ton de colecta por mes.
+  
+  - "El Llantatón" que consiste en colecta de llantas en julio de 2020 se logró el acopio de 525 llantas de automóvil, 42 de bicicletas y 17 de motocicletas.
+  
+  - "Sistema de Manejo Ambiental" que es un programa que impulsa la Secretaría de Ecología y Medio Ambiente (SEMA) referente a una mayor eficiencia en la gestión de residuos y uso de energía dentro de la infraestructura o edificios de las oficinas de cada dependencia de gobierno. Actualmente la Dirección de Ordenamiento Ambiental y Urbano y Cambio Climático se encuentra en la etapa 3 de 8, que se refiere al diagnóstico.
+  
+  
+- "Permiso de Operación Ambiental", basado en el Reglamento de Ecolgía, Mitigación y Adaptación al Cambio Climático condiciona a los establecimientos comerciales y/o servicios deberán de solicitar dicho Permiso de Operación.
+
+
+```{r TallerRS4.2, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center',  fig.cap="Presentación del programa de Residuos del Municipio de Tulum ", results = 'asis'}
+library(knitr)
+library(here)
+
+knitr::include_graphics(here("../Agenda Website/images/RS-4to-taller-6-04-21-1-5.png"))
+
+
+```
+
+
+ 
