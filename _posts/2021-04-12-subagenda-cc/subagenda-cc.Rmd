@@ -1,0 +1,316 @@
+---
+title: "Sub Agenda de Cambio Climático y Sargazo"
+description: |
+  En este blog se presentan los trabajos relacionados con la mesa temática de Cambio Climático y Sargazo.
+author:
+  - name: Héctor A. Lizáraga Cubedo
+    url: http://ceakumal.org
+  - name: Olmo Torres Talamantes
+    url: http://razonatura.org
+date: 04-08-2021
+output:
+  distill::distill_article: default
+  html_document: 
+    fig_width: 8
+    fig_height: 7
+    fig_caption: true
+lang: es
+---
+
+
+```{r CCsticker, echo=FALSE, warning=FALSE,message=FALSE, out.width="80%", fig.align="center"}
+
+library(ggimage)
+library(hexSticker)
+library(magick)
+library(grid)
+library(gridExtra)
+library(ggpubr)
+library(ggplot2)
+library(cowplot)
+library(png)
+library(here)
+
+### Cambio climático sticker
+imageCC <- image_read2(here("../Agenda Website/images/Climate-Change-Transparent.png"))
+stickerCC <- sticker(imageCC, package="Cambio Climático y Sargazo", dpi = 600, p_size=6,p_color = "#0696b3",p_x = 1,p_y = 1.43, s_x=1, s_y=.9, s_width=9, s_height =1, asp = .5, h_size = 3, h_color = "#0696b3", h_fill = "#FFFFFF", bg = "transparent",url = "http://www.pngall.com/?p=15635; www.iapqroo.org.mx; https://www.ahtulum.com", u_size = 1.4)
+stickerCC
+
+```
+
+
+# Subagenda Cambio Climático y Sargazo
+
+
+ La subagenda de Cambio Climático y Sargazo es parte de la Agenda Ecológica que Coordina **Héctor A. Lizárraga Cubedo**, director del [Centro Ecológico Akumal](htpp://ceakumal.org).  El coordinador de esta subagenda es el **M. en C. Olmo Torres Talamantes**, quien actualmente es Director de Razonatura [Razonatura](http://razonatura.org).
+
+ 
+Olmo tomó posesión como coordinador de la **sub agenda de Cambio Climático y Sargazo**  el 27 de febrero de 2021 en el Hotel Akumal Bay & Wellness Resort.
+
+ 
+```{r CoordinadorCC, echo=FALSE, warning=FALSE,message=FALSE, fig.show="hold", fig.cap="Coordinador de Cambio Climático y Sargazo de la Agenda Ecológica", out.width='50%', fig.align='center', results = 'asis'}
+library(knitr)
+library(here)
+library(grid)
+library(png)
+
+
+knitr::include_graphics(here("../Agenda Website/images/OLMO-4-03-21.jpeg"))
+
+```
+
+
+
+## PRIMER TALLER DE CAMBIO CLIMÁTICO Y SARGAZO
+
+
+
+```{r TallerCC1, echo=FALSE, warning=FALSE,message=FALSE, fig.show="hold", fig.cap="Primer taller de Cambio Climático y Sargazo de la Agenda Ecológica",  fig.align='center', results = 'asis'}
+library(knitr)
+library(here)
+
+knitr::include_graphics(here("../Agenda Website/images/CC2.png"))
+
+```
+
+
+ El primer taller de ésta mesa temática se llevó a cabo, de manera presencial en las oficinas de la Asociación de Hoteles de Tulum y mediante el uso de la plataforma zoom, el día 13 de marzo a las 11:00hs. Al taller asisistieron los siguientes actores:
+ 
+
+- Vicente Ferreyra Acosta,	Sustentur
+
+- Frances Pimentel	
+
+- Gladys Perez de la Fuente,	Red PROPLAYAS
+
+- Alejandro Bravo Quezada,	Oceangrafya
+
+- Alfonso Torres, APSA
+
+- Olmo Torres Talamantes, Razonatura
+
+- Héctor A. Lizárraga Cubedo, del CEA;
+
+- León R. Lizárraga Cubedo, del IAPQROO y equipo.
+ 
+
+ 
+ Se cuenta con la lista de asistencia, misma que tiene el IAPQROO y que contará como primera evidencia de la reunión. Así mismo, se cuenta con evidencia fotográfica que da cuenta del evento.
+ 
+
+Durante la reunión se solicitó a los presentes se designara un  **secretario técnico** que nos ayude a tomar nota de los acuerdos tomados por la mesa, sin embargo no se pudo contar con una persona asignada. Vicente Ferreyra Acosta y Olmo Torres Talamantes desempeñan, en conjunto, dicho rol. 
+
+
+Como parte de los Lineamientos para la realización de esta primera etapa se propusieron los siguientes puntos:
+
+
+1. Un banco de datos e información (mapas, estudios, análisis, hallazgos, encuestas, estadísticas,  bases de datos, aplicaciones, normas, planes, programas, presupuestos, proyectos).
+
+2. Descripción de la situación que engloba el tema, respecto al presente.
+
+3. Definición de la problemática que hay que tomar en cuenta en el corto, mediano y largo plazo.
+
+4. Identificación de CAMBIOS urgentes, en los primeros 100 días de gobierno.
+
+5. Definición de proyectos estratégicos.
+
+6. Identificación de actores claves para incidir en el cambio, tanto personales como institucionales.
+
+7. Identificación de fondos privados o públicos para incidir en el tratamiento del tema que se analiza.
+
+8. Identificación de la infraestructura, recursos humanos y financieros que existen para tratar el tema.
+
+9. Identificación y descripción de instrumentos tecnológicos que hay que tomar en cuenta.
+
+10. Definición de cambios en las relaciones de poder entre gobernantes y gobernados, ponderando esquemas de participación ciudadana, transparencia y rendición de cuentas.
+
+
+
+### Acuerdos del primer taller (13-mar-21)
+
+Aunque este fue el primer taller para aperturar oficialmente los trabajos en materia de cambio climático se pudo obtener informacion valiosa para construir el diagnóstico general. En su presentación Olmo dio cuenta de la información que de manera personal ha podido recabar en el tema.
+
+De manera especial se presentaron los proyectos de ADAPTUR y SUSTENTUR que impulsan acciones concretas para el desarrollo turístico sustentable de Quintana Roo. En caso concreto para el municipio de Tulum se detectó el plan Municipal de Turismo 2021-2024. Los principales expositores de este tema fueron Olmo y Vicente.
+
+En materia de sargazo el Ocean. Alejandro Bravo compartió un artículo científico que enfatiza en una zona de vórtice de corrientes en frente a las costas de Tulum el cual influye en la desviación del sargazo hacia la línea de costa desde Tulum hasta Akumal y resaltó la importancia de considerar este aspecto técnico.
+
+En cuanto a los prestadores de servicios náuticos, Alfonso Torres mencionó que ellos contribuyen en algunos proyectos de sargazo en el norte del estado.
+
+Por su parte Frances Pimentel mencionó la importancia de considerar los instrumentos de fondeo e incentivos fiscales para acciones concretas de cambio climático, tema que deberá de tratarse con mayor profundidad.
+
+
+**Banco de datos**:
+
+La base de datos identificada por Olmo contiene los siguientes elementos:
+
+- Alineación del tema con los Objetivos de Desarrollo Sostenible, 13- Acción por el Clima; 6- Agua Limpia y Saneamiento; 11- Ciudades y Comunidades Sostenibles; 14- Vida Submarina; 15- Vida de Ecosistemas Terrestres; y 17- Alianzas para Lograr los objetivos.
+
+- Resalta la "Ley General de Cambio Climático (LGCC), 2012, con conceptos de Mitigación y Adaptación (DOF, 6-jun-2012; https://www.profepa.gob.mx/innovaportal/file/6583/1/ley_general_de_cambio_climatico.pdf).
+
+- Cambios en la LGCC para sustentar la firma del "Acuerdo de París (22-abr-2016)", compromiso de México para limitar el incremento en la temperatura promedio del planeta a menos de 2´C, con esfuerzos para limitarlo a 1.5´C, al 2052.
+
+- Plataforma del Atlas Nacional de Vulnerabilidad al Cambio Climático, INCECC (https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjOs8P04_TvAhVRJKwKHav1AOcQFjAAegQIBBAD&url=https%3A%2F%2Fatlasvulnerabilidad.inecc.gob.mx%2F&usg=AOvVaw1krafNFXobZp41EwarVUzF).
+
+- Sistema de Información Sobre el Cambio Climático (https://cambioclimatico.gob.mx/el-sistema-de-informacion-sobre-el-cambio-climatico/).
+
+- ADAPTUR (https://adaptur.mx). Proyecto con un nuevo enfoque para promover soluciones naturales para la adaptación al cambio climático en el sector turismo.
+
+- Seguro Paramétrico para Arrecifes y Playas en Quintana Roo (https://qroo.gob.mx/sites/default/files/unisitio2019/06/INFORMACIÓN%20DEL%20FIDEICOMISO%20PARA%20MANEJO%20INTEGRAL%20DE%20LA%20ZONA%20COSTERA%20DESARROLLO%20SOCIAL%20Y%20SEGURIDAD%20PARA%20EL%20ESTADO%20DE%20QUINTANA%20ROO.pdf)
+
+- Plan Maestro de Turismo Sustentable de Quintana Roo 2030 (https://sedeturqroo.gob.mx/pmts2030/).
+
+- Plan Municipal de Turismo Tulum 2021-2024.
+
+
+
+
+
+**LISTA DE ACTORES PROPUESTOS PARA PARTICIPAR EN LA MESA DE CAMBIO CLIMÁTICO Y SARGAZO**
+
+- Vicente Ferreyra Acosta,	Sustentur
+
+- Frances Pimentel	
+
+- Gladys Perez de la Fuente,	Red PROPLAYAS
+
+- Alejandro Bravo Quezada,	Oceangrafya
+
+- Alfonso Torres, APSA
+
+- Olmo Torres Talamantes, Razonatura
+
+- Héctor A. Lizárraga Cubedo, del CEA;
+
+- León R. Lizárraga Cubedo, del IAPQROO y equipo.
+
+- Rosaura Cuevas Villar, Adaptur
+
+- Daniel Ponce Taylor
+
+- Mélina Soto, HRI
+
+ 
+
+## SEGUNDO TALLER DE CAMBIO CLIMÁTICO Y SARGAZO
+
+
+
+```{r TallerCC2, echo=FALSE, warning=FALSE,message=FALSE, fig.show="hold", fig.cap="Segundo taller de Cambio Climático y Sargazo de la Agenda Ecológica", out.width='60%', fig.align='center', results = 'asis'}
+library(knitr)
+library(here)
+
+knitr::include_graphics(here("../Agenda Website/images/CC-2do-taller-8-04-21.png"))
+
+```
+
+
+  El segundo taller de ésta mesa temática se llevó a cabo, de manera presencial en las instalaciones del Hotel Akumal Bay & Wellness Resort y mediante el uso de la plataforma zoom, el día 8 de abril a las 10:00hs. Al taller asisistieron los siguientes actores:
+ 
+
+- Vicente Ferreyra Acosta,	Sustentur
+
+- Rosaura Cuevas Villar, Adaptur
+
+- Frances Pimentel	
+
+- Gladys Perez de la Fuente,	Red PROPLAYAS
+
+- Alejandro Bravo Quezada,	Oceangrafya
+
+- Daniel Ponce Taylor
+
+- Mélina Soto, HRI
+
+- Olmo Torres Talamantes, Razonatura
+
+- Héctor A. Lizárraga Cubedo, del CEA;
+
+- Francisco Hernández, del IAPQROO y equipo.
+ 
+
+ 
+ Se cuenta con la lista de asistencia, misma que tiene el IAPQROO y que contará como evidencia de la reunión. Así mismo, se cuenta con evidencia fotográfica que da cuenta del evento.
+ 
+ 
+
+## Acuerdos del segundo taller (8-abr-21)
+
+En este taller el orden del día comprendió una serie de actividades diversas que comprenden desde un análisis participativo hasta la presentación de dos inicativas de turismo ante el cambio climático. 
+
+En la primer parte del taller, Vicente Ferreyra apoyó en propiciar la dinámica participativa a través de la plataforma MENTI  con la finalidad de realizar un análisis de sentimiento y de priorización de ideas en base al conocimiento del tema que poseen los actores que participan en esta mesa temática. 
+
+
+
+```{r TallerCC2.1, echo=FALSE, warning=FALSE,message=FALSE, fig.show="hold", fig.cap="Evidencia del segundo taller de Cambio Climático y Sargazo de la Agenda Ecológica", out.width='60%', fig.align='center', results = 'asis'}
+library(knitr)
+library(here)
+
+knitr::include_graphics(here("../Agenda Website/images/CC-3.png"))
+
+```
+
+
+El análisis de sentimiento se basó en lo que los actores entienden por Cambio Climático. Posteriormente se realizaron ejercicios de priorización sobre temas de "Medidas de Mitigación", "Medidas de Adaptación" y finalmente sobre "Las tres Amenazas para el municipio de Tulum".
+
+
+Rosaura Cuevas Villar, presentó la iniciativa impulsada por GIZ, SEMARNAT, CONANP, SECTUR, e INECC, denominada "ADAPTUR", que tiene por objetivo el apoyar al Sector turismo para Adaptarse al Cambio Climático. Esta iniciativa tiene entre sus objetivos:
+
+ - Apoyar en reducir el riesgo de negocio e las empresas turísticas (vulnerabilidad);
+ 
+ - Proteger a sus activos naturales;
+ 
+ - Mantener sus servicios que brindan los ecosistemas.
+ 
+ 
+ 
+Rosaura presentó infomación a escala espacial y grográfica del municipio y de la región Riviera Maya lo cual fue muy productivo. Resalta información sobre:
+
+
+
+```{r TallerCC2.2, echo=FALSE, warning=FALSE,message=FALSE, fig.show="hold", fig.cap="Presentación de la iniciativa ADAPTUR", out.width='60%', fig.align='center', results = 'asis'}
+library(knitr)
+library(here)
+
+knitr::include_graphics(here("../Agenda Website/images/CC-4.png"))
+
+```
+
+
+
+- La intensidad de huracanes (fuente CENAPRED) y  frecuencia;
+
+- Patrones de Precipitación pluvial; 
+
+- Aumento en la Erosión Costera resaltando información sobre Akumal como sitio más propenso a este fenómeno; 
+
+- Impacto a provisión de agua dulce por cambio climático; 
+
+- Medidas de Adpatación Basadas en Ecosistemas;
+
+- Guía para Destinos Turísticos a Prueba de Clima;
+
+- Guía para Inversiones Adaptadas al Cambio Climático;
+
+- Aumento en temperatura (Fuente: "Análisis de Riesgo Económico en Riviera Maya, 2020);
+
+- Aumento en nivel de mar (Fuente: SECTUR, 2013, 2018), con promedios de 2-16mm/ año;
+
+
+
+
+Por su parte, Vicente Ferreyra explicó dentro de la iniciativa de SUSTENTUR, que también permitieron visualizar las alternativas de sector Turismo ante el Cambio Climático.
+
+```{r TallerCC2.3, echo=FALSE, warning=FALSE,message=FALSE, fig.show="hold", fig.cap="Pesentación de l a iniciativa SUSTENTUR", out.width='60%', fig.align='center', results = 'asis'}
+library(knitr)
+library(here)
+
+knitr::include_graphics(here("../Agenda Website/images/CC-5.png"))
+
+```
+
+
+
+De la iniciativa resalta conocer cuáles son los impactos que esta generando el sector turístico en relación al cambio climático, consideando factores como la visitación, transporte a los destinos turísticos, comportamiento del turista, nformación que se le brinda y la huella ecológica que esta actividad genera. Todo lo anterior desde la perspectiva de insumos para una mas eficiente estretagia de cambio climático para este sector.
+
+
+
