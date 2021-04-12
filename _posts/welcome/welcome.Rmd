@@ -1,0 +1,51 @@
+---
+title: "Bienvenido a la Agenda Ecológica"
+description: |
+  En este blog se plasma el contenido principal de la Agenda Ecológica, una de las sies agendas de la "Agenda para el Desarrollo Sustentable de Tulum".
+author:
+  - name: Héctor A. Lizáraga Cubedo
+    affiliation:  Centro Ecológico Akumal
+    affiliation_url: http://ceakumal.org
+date: 04-07-2021
+output:
+  distill::distill_article:
+     highlight: default
+     self_contained: false
+     toc: true
+     html_document: 
+     fig_width: 7
+     fig_height: 6
+     fig_caption: true
+     theme: AgendaStyle.css
+lang: es
+---
+
+
+
+```{r Welcomesticker, echo=FALSE, warning=FALSE,message=FALSE, fig.align="center"}
+
+library(ggimage)
+library(hexSticker)
+library(magick)
+library(grid)
+library(gridExtra)
+library(ggpubr)
+library(ggplot2)
+library(cowplot)
+library(png)
+library(here)
+
+imageWelcome <- image_read2(here("../Agenda Website/images/ModeloAgenda2.png"))
+stickerWelcome <- sticker(imageWelcome, package="Agenda Ecológica", dpi = 600, p_size=7.2,p_color = "#9db819",p_x = 1,p_y = 1.65, s_x=1, s_y=1, s_width=9, s_height =1, asp = .5, h_size = 3, h_color = "#9db819", h_fill = "#FFFFFF", 
+output = system.file("../Agenda Website/images/ModeloLogo.png", package = "Agenda Ecológica"), bg = "transparent", url = "www.iapqroo.org.mx; https://www.ahtulum.com", u_size = 2.6)
+stickerWelcome
+
+```
+
+
+ Bienvenido al blog de la **Agenda Ecológica**, una de las seis agendas de la  "AGENDA PARA EL DESARROLLO SUSTENTABLE DE TULUM". En este espacio encontrarás los avances de la constitución de éste extraordinario y único ejercicio en su tipo, de alta participación ciudadana, impulsada por la [Asociación de Hoteles de Tulum](https://www.ahtulum.com), a través de su Presidente _Lic. David Ortiz-Mena_, y el [Instituto de Administración Pública de Quintana Roo](https://www.iapqroo.org.mx), presidido por el _Mtro. León Ricardo Lizárraga Cubedo_,  con el objetivo de generar un modelo rector para una eficiente gestión muncipal partiendo de un enfoque técnico y social.
+
+
+
+
+

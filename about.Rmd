@@ -1,0 +1,9 @@
+---
+title: "Blog de la Agenda Ecológica"
+description: |
+  Se presenta lo mas relevante de la Agenda Ecológica y sus diferentes mesas de trabajo.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```

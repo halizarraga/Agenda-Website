@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "Blog de la Agenda Ecológica",
+      "description": "Se presenta lo mas relevante de la Agenda Ecológica y sus diferentes mesas de trabajo.",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-04-12T17:31:54-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Blog de la Agenda Ecológica",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-04-12T17:31:55-05:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
