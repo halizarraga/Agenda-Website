@@ -1,0 +1,215 @@
+---
+title: "Sub Agenda de Biodiversidad"
+description: |
+  En este blog se presentan los trabajos relacionados con la mesa temática de Biodiversidad.
+author:
+  - name: Héctor A. Lizáraga Cubedo
+    url: http://ceakumal.org
+  - name: Marco A. Lazcano Barrero
+    url: https://jaguarconservation.mx/marco-a-lazcano-barrero
+date: 04-08-2021
+output:
+  distill::distill_article: default
+  html_document: 
+    fig_width: 8
+    fig_height: 7
+lang: es
+---
+
+
+
+```{r Bioticker, echo=FALSE, warning=FALSE,message=FALSE, fig.align="center"}
+
+library(ggimage)
+library(hexSticker)
+library(magick)
+library(grid)
+library(gridExtra)
+library(ggpubr)
+library(ggplot2)
+library(cowplot)
+library(png)
+library(here)
+
+### Bio sticker
+imageBio <- image_read2(here("../Agenda Website/images/Biodiversity.png"))
+stickerBio <- sticker(imageBio, package="Biodiversidad", dpi = 600, p_size=7,p_color = "#f74926",p_x = 1,p_y = 1.65, s_x=1, s_y=1, s_width=9, s_height =1, asp = .5, h_size = 3, h_color = "#f74926", h_fill = "#FFFFFF", bg = "transparent",url = "http://www.pngall.com/?p=4427; www.iapqroo.org.mx; https://www.ahtulum.com", u_size = 1.4)
+stickerBio
+
+```
+
+
+
+# Subagenda Biodiversidad
+
+
+ La subagenda de Áreas Naturales Protegidas es parte de la Agenda Ecológica que Coordina **Héctor A. Lizárraga Cubedo**, director del [Centro Ecológico Akumal](htpp://ceakumal.org).  El coordinador de esta subagenda es
+el **M. en C. Alejandro López Tamayo**, quien actualmente es Director de [Centinelas del Agua](https://centinelasdelagua.org).
+
+Marco tomó posesión como coordinador de la **sub agenda de Biodiversidad** el 27 de febrero de 2021 en el Hotel Akumal Bay & Wellness Resort.
+
+
+
+```{r CoordinadorBio, echo=FALSE, warning=FALSE,message=FALSE, fig.show="hold", fig.cap="Coordinador de Biodiversidad de la Agenda Ecológica", fig.align='center', results = 'asis'}
+library(knitr)
+library(here)
+library(grid)
+library(png)
+
+
+knitr::include_graphics(here("../Agenda Website/images/MARCO-4-03-21.jpeg"))
+
+```
+
+
+
+
+## PRIMER TALLER DE BIODIVERSIDAD
+
+
+Este primer taller de la Sub agenda de Biodiversidad tiene como prioridad trabajar en los objetos de conservación: **“Especies de Flora y Fauna”** con énfasis en el Potencial de Conflicto – Cocodrilos.
+
+El Grupo SOS Cocodrilo en el municipio de Tulum tiene como:
+
+*Objetivo general*:
+
+Promover la conservación de los cocodrilianos en el Municipio de Tulum a través de la coordinación intersectorial en concordancia con el Programa de Acción para la Conservación de Especies (PACE): Crocodylia
+
+
+*Objetivos particulares*: 
+Establecer coordinadamente los pasos básicos de atención y prevención a interacciones humano cocodrilo en el Municipio de Tulum, mediante el Grupo SOS Cocodrilo.
+
+ 
+```{r TallerBio1, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center',fig.cap="Primer taller de Biodiversidad de la Agenda Ecológica, Potencial de Conflicto - Cocodrilos", results = 'asis'}
+library(knitr)
+library(here)
+
+knitr::include_graphics(here("../Agenda Website/images/Bio-1.png"))
+
+```
+
+
+ El primer taller de ésta mesa temática se llevó a cabo, de manera presencial y virtual mediante el uso de la plataforma zoom, el día 11 de marzo a las 11:00hs en el Hotel Akumal Bay & Wellness Resort vía zoom. Al taller asisistieron los siguientes actores:
+ 
+-	José Juan Domínguez, Director de la RB CM; Yadira Gómez Hernández, Dir. Regional;
+
+ - Marco A. Lazcano Barrero, RE El Edén;
+
+ - Rafael Robles de Benitez, Director del IBANQROO;
+
+ - MVZ. Raymundo Miguel Rosas Mondragón, Inspector General, PROFEPA;
+
+ - Salvador Ernesto Julio Cardoso;
+
+ - María de Lourdes Souza Hernández, IBANQROO;
+
+ - Javier Carballar, Onca Maya, A.C.;
+
+ - Rocío Peralta Galicia, Presidenta del Comité de Vigilancia Ambiental Mirada de Jaguar;
+
+ - MVZ Mario Buil,  Centro de Rehabilitación de Felinos y Primates, Balan Kaam Uay;
+
+ - María Fernanda, IBANQROO;
+ 
+ - Alonso Serna, Amigos de Sian Ka 'an;
+
+ - Héctor A. Lizárraga Cubedo, del CEA;
+ 
+ - Francisco Hernández, del IAPQROO y equipo.
+ 
+ 
+ Se cuenta con la lista de asistencia, misma que tiene el IAPQROO y que contará como primera evidencia de la reunión. Así mismo, se cuenta con evidencia fotográfica que da cuenta del evento.
+
+
+Grabación de la reunión:
+> https://zoom.us/rec/share/03UwV54gk1O4FLOWYmolBcQXC_Lcxh3LFFzM9xoBladW0sMu3ICoq7Un76oHfqTG.coYBBBk6R2e-6Cqj
+
+Código de acceso para acceder: B.+.K9TU
+
+
+Esta mesa no cuenta con un Secretario Técnico.
+
+
+Como parte de los Lineamientos para la realización de esta primera etapa se propusieron los siguientes puntos:
+
+
+1. Un banco de datos e información (mapas, estudios, análisis, hallazgos, encuestas, estadísticas,  bases de datos, aplicaciones, normas, planes, programas, presupuestos, proyectos).
+
+2. Descripción de la situación que engloba el tema, respecto al presente.
+
+3. Definición de la problemática que hay que tomar en cuenta en el corto, mediano y largo plazo.
+
+4. Identificación de CAMBIOS urgentes, en los primeros 100 días de gobierno.
+
+5. Definición de proyectos estratégicos.
+
+6. Identificación de actores claves para incidir en el cambio, tanto personales como institucionales.
+
+7. Identificación de fondos privados o públicos para incidir en el tratamiento del tema que se analiza.
+
+8. Identificación de la infraestructura, recursos humanos y financieros que existen para tratar el tema.
+
+9. Identificación y descripción de instrumentos tecnológicos que hay que tomar en cuenta.
+
+10. Definición de cambios en las relaciones de poder entre gobernantes y gobernados, ponderando esquemas de participación ciudadana, transparencia y rendición de cuentas.
+
+
+
+
+### Acuerdos del primer taller (11-mar-21)
+
+
+En este taller Marco Lazcano realizó una presentación acerca de la Agenda Ecológica y Sub agenda de Biodiversidad, resaltando la importacia en trabajar en los objetos de conservación "Especies de Flora y Fauna".
+
+Al respecto Marco propone tres aspectos fundamentales:
+
+ - Contar con un equipo técnico calificado, con capacidad y equipo para atender, de manera inmediata, cualquier eventualidad que se presente en relación a la fauna silvestre y feral al interior del Municipio;
+ 
+ - Implementar un programa de monitoreo de las poblaciones de especies clave (aquellas que requieren atención especial por las interacciones que generan) como lo son los mapaches, tejones, cocodrilos, felinos silvestres y fauna feral (gatos y perros fuera de control del hombre).  Esta información ermitirá tomar decisiones informadas para prever, prevenir, y atender conflictos que se susciten de manera temprana, rápida y eficiente.
+ 
+ - Educar, concientizar y capacitar a los diversos sectores de la población en materia de manejo y conservación de la fauna silvestre con la cual interactúan.
+ 
+
+
+```{r TallerBio2, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center',fig.cap="Antecedentes de Conflicto - Cocodrilos", results = 'asis'}
+library(knitr)
+library(here)
+
+knitr::include_graphics(here("../Agenda Website/images/Bio-2.png"))
+
+```
+
+
+Por su parte, Mario Buil, presentó los antecedentes del Grupo de Trabajo Especialziado, manejo y Conservación de los Cocodrilos del Estadod de Quintana Roo (GTECQROO). La información incluye las sesiones de trabajo del grupo, quiénes lo han conformado, sus logros, entre ellas presenta un mapa de interacciones negativas con cocodrlios en Quintana Roo (1991:2019), los sitios de conflicto, tipos de conflicto, y presenta una posible hoja de ruta ara a atención a los conflictos, el cómo actuar por parte de los integrantes del Grupo.
+
+Mario también propone tiempos para la conformación del Grupo para trabajar en la **Estrategia General, Planeación y Conformación".
+
+La primera fase incluye:
+
+- Documento de conformacion del grupo, puestos, objetivos, etc.;
+
+- Estrategia de comunicación;
+
+- Recursos Económicos para el Programa.
+
+La segunda fase incluye:
+
+- Inicio de funciones;
+
+- Reuniones mensuales de retroaclimentación y ajustes;
+
+- Reportes mensuales.
+
+Y La tercera fase incluye:
+
+- Presentación de resultados anuales  y análisis.
+
+
+Al respecto se espera en breve el llamado para la conformaciòn del grupo.
+
+
+
+
+
+José Juan Domínguez compartió el documento "PROTOCOLO NACIONAL DE ATENCION A CONFLICTOS CON COCODRILIANOS EN MÉXICO".
+
