@@ -3,7 +3,7 @@ title: "Sub Agenda de Sustentabilidad de Agua, Aire y Suelo"
 description: |
   En este blog se presentan los trabajos relacionados con la mesa temática de Sustentabilidad de Agua, Aire y Suelo.
 author:
-  - name: Héctor A. Lizáraga Cubedo
+  - name: Héctor A. Lizárraga Cubedo
     url: http://ceakumal.org
   - name: Alejandro López Tamayo
     url: https://centinelasdelagua.org
@@ -211,7 +211,7 @@ Los actores identificados para participar en este mesa ya se encuentran identifi
  
  
  
-```{r TallerAgua1.1, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center',fig.cap="Evidencia primer taller de Sustentabilidad de Agua, Aire y Suelo de la Agenda Ecológica", results = 'asis'}
+```{r TallerAgua1a, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center',fig.cap="Evidencia primer taller de Sustentabilidad de Agua, Aire y Suelo de la Agenda Ecológica", results = 'asis'}
 library(knitr)
 library(here)
 
@@ -308,7 +308,7 @@ CEA: A lo anterior, Héctor comenta que en esta primera etapa están participand
 
 
 
-```{r TallerAgua2.1, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center',fig.cap="Formulario para llenado de información", results = 'asis'}
+```{r TallerAgua2a, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center',fig.cap="Formulario para llenado de información", results = 'asis'}
 library(knitr)
 library(here)
 
@@ -317,7 +317,7 @@ knitr::include_graphics(here("../Agenda Website/images/formulario-agua.png"))
 ```
 
 
-Finalmente, se creó un formulario para llenado de información en línea y se creó un espacio google para compartir y consultar.
+Finalmente, se creó un formulario para llenado de información en línea y se creó un espacio google para compartir y consultar. Dicha solicitud ya se envió a los actores vía correo electrónico por larte de la Secretaria Técnica de la mesa.
 
 
 

@@ -3,7 +3,7 @@ title: "Sub Agenda de Cambio Climático y Sargazo"
 description: |
   En este blog se presentan los trabajos relacionados con la mesa temática de Cambio Climático y Sargazo.
 author:
-  - name: Héctor A. Lizáraga Cubedo
+  - name: Héctor A. Lizárraga Cubedo
     url: http://ceakumal.org
   - name: Olmo Torres Talamantes
     url: http://razonatura.org
@@ -42,13 +42,13 @@ stickerCC
 # Subagenda Cambio Climático y Sargazo
 
 
- La subagenda de Cambio Climático y Sargazo es parte de la Agenda Ecológica que Coordina **Héctor A. Lizárraga Cubedo**, director del [Centro Ecológico Akumal](htpp://ceakumal.org).  El coordinador de esta subagenda es el **M. en C. Olmo Torres Talamantes**, quien actualmente es Director de Razonatura [Razonatura](http://razonatura.org).
+ La subagenda de Cambio Climático y Sargazo es parte de la Agenda Ecológica que Coordina **Héctor A. Lizárraga Cubedo**, director del [Centro Ecológico Akumal](htpp://ceakumal.org).  El coordinador de esta subagenda es el **M. en C. Olmo Torres Talamantes**, quien actualmente es Director de  [Razonatura](http://razonatura.org).
 
  
 Olmo tomó posesión como coordinador de la **sub agenda de Cambio Climático y Sargazo**  el 27 de febrero de 2021 en el Hotel Akumal Bay & Wellness Resort.
 
  
-```{r CoordinadorCC, echo=FALSE, warning=FALSE,message=FALSE, fig.show="hold", fig.cap="Coordinador de Cambio Climático y Sargazo de la Agenda Ecológica", out.width='50%', fig.align='center', results = 'asis'}
+```{r CoordinadorCC, echo=FALSE, warning=FALSE,message=FALSE, fig.show="hold", fig.cap="Coordinador de Cambio Climático y Sargazo de la Agenda Ecológica", fig.align='center', results = 'asis'}
 library(knitr)
 library(here)
 library(grid)
@@ -77,17 +77,17 @@ knitr::include_graphics(here("../Agenda Website/images/CC2.png"))
  El primer taller de ésta mesa temática se llevó a cabo, de manera presencial en las oficinas de la Asociación de Hoteles de Tulum y mediante el uso de la plataforma zoom, el día 13 de marzo a las 11:00hs. Al taller asisistieron los siguientes actores:
  
 
-- Vicente Ferreyra Acosta,	Sustentur
+- Vicente Ferreyra Acosta,	Sustentur;
 
-- Frances Pimentel	
+- Frances Pimentel;	
 
-- Gladys Perez de la Fuente,	Red PROPLAYAS
+- Gladys Pérez de la Fuente,	Red PROPLAYAS;
 
-- Alejandro Bravo Quezada,	Oceangrafya
+- Alejandro Bravo Quezada,	Oceangrafya;
 
-- Alfonso Torres, APSA
+- Alfonso Torres, APSA;
 
-- Olmo Torres Talamantes, Razonatura
+- Olmo Torres Talamantes, Razonatura;
 
 - Héctor A. Lizárraga Cubedo, del CEA;
 
@@ -167,27 +167,27 @@ La base de datos identificada por Olmo contiene los siguientes elementos:
 
 **LISTA DE ACTORES PROPUESTOS PARA PARTICIPAR EN LA MESA DE CAMBIO CLIMÁTICO Y SARGAZO**
 
-- Vicente Ferreyra Acosta,	Sustentur
+- Vicente Ferreyra Acosta,	Sustentur;
 
-- Frances Pimentel	
+- Frances Pimentel;	
 
-- Gladys Perez de la Fuente,	Red PROPLAYAS
+- Gladys Pérez de la Fuente,	Red PROPLAYAS;
 
-- Alejandro Bravo Quezada,	Oceangrafya
+- Alejandro Bravo Quezada,	Oceangrafya;
 
-- Alfonso Torres, APSA
+- Alfonso Torres, APSA;
 
-- Olmo Torres Talamantes, Razonatura
+- Olmo Torres Talamantes, Razonatura;
 
 - Héctor A. Lizárraga Cubedo, del CEA;
 
-- León R. Lizárraga Cubedo, del IAPQROO y equipo.
+- Francisco Hernández, del IAPQROO y equipo;
 
-- Rosaura Cuevas Villar, Adaptur
+- Rosaura Cuevas Villar, Adaptur;
 
-- Daniel Ponce Taylor
+- Daniel Ponce Taylor;
 
-- Mélina Soto, HRI
+- Mélina Soto, HRI.
 
  
 
@@ -195,13 +195,14 @@ La base de datos identificada por Olmo contiene los siguientes elementos:
 
 
 
-```{r TallerCC2, echo=FALSE, warning=FALSE,message=FALSE, fig.show="hold", fig.cap="Segundo taller de Cambio Climático y Sargazo de la Agenda Ecológica", out.width='60%', fig.align='center', results = 'asis'}
+```{r TallerCC2, echo=FALSE, warning=FALSE,message=FALSE, fig.show="hold", fig.cap="Segundo taller de Cambio Climático y Sargazo de la Agenda Ecológica",  fig.align='center', results = 'asis'}
 library(knitr)
 library(here)
 
 knitr::include_graphics(here("../Agenda Website/images/CC-2do-taller-8-04-21.png"))
 
 ```
+
 
 
   El segundo taller de ésta mesa temática se llevó a cabo, de manera presencial en las instalaciones del Hotel Akumal Bay & Wellness Resort y mediante el uso de la plataforma zoom, el día 8 de abril a las 10:00hs. Al taller asisistieron los siguientes actores:
@@ -213,7 +214,7 @@ knitr::include_graphics(here("../Agenda Website/images/CC-2do-taller-8-04-21.png
 
 - Frances Pimentel	
 
-- Gladys Perez de la Fuente,	Red PROPLAYAS
+- Gladys Pérez de la Fuente,	Red PROPLAYAS
 
 - Alejandro Bravo Quezada,	Oceangrafya
 
@@ -241,7 +242,7 @@ En la primer parte del taller, Vicente Ferreyra apoyó en propiciar la dinámica
 
 
 
-```{r TallerCC2.1, echo=FALSE, warning=FALSE,message=FALSE, fig.show="hold", fig.cap="Evidencia del segundo taller de Cambio Climático y Sargazo de la Agenda Ecológica", out.width='60%', fig.align='center', results = 'asis'}
+```{r TallerCC2a, echo=FALSE, warning=FALSE,message=FALSE, fig.show="hold", fig.cap="Evidencia del segundo taller de Cambio Climático y Sargazo de la Agenda Ecológica", fig.align='center', results = 'asis'}
 library(knitr)
 library(here)
 
@@ -250,12 +251,13 @@ knitr::include_graphics(here("../Agenda Website/images/CC-3.png"))
 ```
 
 
+
 El análisis de sentimiento se basó en lo que los actores entienden por Cambio Climático. Posteriormente se realizaron ejercicios de priorización sobre temas de "Medidas de Mitigación", "Medidas de Adaptación" y finalmente sobre "Las tres Amenazas para el municipio de Tulum".
 
 
 Rosaura Cuevas Villar, presentó la iniciativa impulsada por GIZ, SEMARNAT, CONANP, SECTUR, e INECC, denominada "ADAPTUR", que tiene por objetivo el apoyar al Sector turismo para Adaptarse al Cambio Climático. Esta iniciativa tiene entre sus objetivos:
 
- - Apoyar en reducir el riesgo de negocio e las empresas turísticas (vulnerabilidad);
+ - Apoyar en reducir el riesgo de negocio en las empresas turísticas (vulnerabilidad);
  
  - Proteger a sus activos naturales;
  
@@ -267,7 +269,7 @@ Rosaura presentó infomación a escala espacial y grográfica del municipio y de
 
 
 
-```{r TallerCC2.2, echo=FALSE, warning=FALSE,message=FALSE, fig.show="hold", fig.cap="Presentación de la iniciativa ADAPTUR", out.width='60%', fig.align='center', results = 'asis'}
+```{r TallerCC2b, echo=FALSE, warning=FALSE,message=FALSE, fig.show="hold", fig.cap="Presentación de la iniciativa ADAPTUR", fig.align='center', results = 'asis'}
 library(knitr)
 library(here)
 
@@ -300,7 +302,7 @@ knitr::include_graphics(here("../Agenda Website/images/CC-4.png"))
 
 Por su parte, Vicente Ferreyra explicó dentro de la iniciativa de SUSTENTUR, que también permitieron visualizar las alternativas de sector Turismo ante el Cambio Climático.
 
-```{r TallerCC2.3, echo=FALSE, warning=FALSE,message=FALSE, fig.show="hold", fig.cap="Pesentación de l a iniciativa SUSTENTUR", out.width='60%', fig.align='center', results = 'asis'}
+```{r TallerCC2c, echo=FALSE, warning=FALSE,message=FALSE, fig.show="hold", fig.cap="Pesentación de la iniciativa SUSTENTUR",  fig.align='center', results = 'asis'}
 library(knitr)
 library(here)
 
@@ -310,7 +312,7 @@ knitr::include_graphics(here("../Agenda Website/images/CC-5.png"))
 
 
 
-De la iniciativa resalta conocer cuáles son los impactos que esta generando el sector turístico en relación al cambio climático, consideando factores como la visitación, transporte a los destinos turísticos, comportamiento del turista, nformación que se le brinda y la huella ecológica que esta actividad genera. Todo lo anterior desde la perspectiva de insumos para una mas eficiente estretagia de cambio climático para este sector.
+De la iniciativa resalta conocer cuáles son los impactos que esta generando el sector turístico en relación al cambio climático, consideando factores como la visitación, transporte a los destinos turísticos, comportamiento del turista, información que se le brinda y la huella ecológica que esta actividad genera. Todo lo anterior desde la perspectiva de insumos para una mas eficiente estretagia de cambio climático para este sector.
 
 
 

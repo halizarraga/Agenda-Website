@@ -3,7 +3,7 @@ title: "Sub Agenda de Biodiversidad"
 description: |
   En este blog se presentan los trabajos relacionados con la mesa temática de Biodiversidad.
 author:
-  - name: Héctor A. Lizáraga Cubedo
+  - name: Héctor A. Lizárraga Cubedo
     url: http://ceakumal.org
   - name: Marco A. Lazcano Barrero
     url: https://jaguarconservation.mx/marco-a-lazcano-barrero
@@ -73,7 +73,7 @@ El Grupo SOS Cocodrilo en el municipio de Tulum tiene como:
 
 *Objetivo general*:
 
-Promover la conservación de los cocodrilianos en el Municipio de Tulum a través de la coordinación intersectorial en concordancia con el Programa de Acción para la Conservación de Especies (PACE): Crocodylia
+Promover la conservación de los cocodrilianos en el Municipio de Tulum a través de la coordinación intersectorial en concordancia con el Programa de Acción para la Conservación de Especies (PACE): *Crocodylia*
 
 
 *Objetivos particulares*: 
@@ -99,13 +99,13 @@ knitr::include_graphics(here("../Agenda Website/images/Bio-1.png"))
 
  - MVZ. Raymundo Miguel Rosas Mondragón, Inspector General, PROFEPA;
 
- - Salvador Ernesto Julio Cardoso;
+ - Salvador Ernesto Julio Cardoso, IBANQROO;
 
  - María de Lourdes Souza Hernández, IBANQROO;
 
  - Javier Carballar, Onca Maya, A.C.;
 
- - Rocío Peralta Galicia, Presidenta del Comité de Vigilancia Ambiental Mirada de Jaguar;
+ - Rocío Peralta Galicia, Presidenta del Comité de Vigilancia Ambiental *Mirada de Jaguar*;
 
  - MVZ Mario Buil,  Centro de Rehabilitación de Felinos y Primates, Balan Kaam Uay;
 
@@ -165,7 +165,7 @@ Al respecto Marco propone tres aspectos fundamentales:
 
  - Contar con un equipo técnico calificado, con capacidad y equipo para atender, de manera inmediata, cualquier eventualidad que se presente en relación a la fauna silvestre y feral al interior del Municipio;
  
- - Implementar un programa de monitoreo de las poblaciones de especies clave (aquellas que requieren atención especial por las interacciones que generan) como lo son los mapaches, tejones, cocodrilos, felinos silvestres y fauna feral (gatos y perros fuera de control del hombre).  Esta información ermitirá tomar decisiones informadas para prever, prevenir, y atender conflictos que se susciten de manera temprana, rápida y eficiente.
+ - Implementar un programa de monitoreo de las poblaciones de especies clave (aquellas que requieren atención especial por las interacciones que generan) como lo son los mapaches, tejones, cocodrilos, felinos silvestres y fauna feral (gatos y perros fuera de control del hombre).  Esta información permitirá tomar decisiones informadas para prever, prevenir, y atender conflictos que se susciten de manera temprana, rápida y eficiente.
  
  - Educar, concientizar y capacitar a los diversos sectores de la población en materia de manejo y conservación de la fauna silvestre con la cual interactúan.
  
@@ -180,11 +180,11 @@ knitr::include_graphics(here("../Agenda Website/images/Bio-2.png"))
 ```
 
 
-Por su parte, Mario Buil, presentó los antecedentes del Grupo de Trabajo Especialziado, manejo y Conservación de los Cocodrilos del Estadod de Quintana Roo (GTECQROO). La información incluye las sesiones de trabajo del grupo, quiénes lo han conformado, sus logros, entre ellas presenta un mapa de interacciones negativas con cocodrlios en Quintana Roo (1991:2019), los sitios de conflicto, tipos de conflicto, y presenta una posible hoja de ruta ara a atención a los conflictos, el cómo actuar por parte de los integrantes del Grupo.
+Por su parte, Javier Carballar, presentó los antecedentes del Grupo de Trabajo Especializado, Manejo y Conservación de los Cocodrilos del Estado de Quintana Roo (GTECQROO). La información incluye las sesiones de trabajo del grupo, quiénes lo han conformado, sus logros, entre ellas presenta un mapa de interacciones negativas con cocodrlios en Quintana Roo (1991-2019), los sitios de conflicto, tipos de conflicto, y presenta una posible hoja de ruta para la atención a los conflictos, el cómo actuar por parte de los integrantes del Grupo.
 
-Mario también propone tiempos para la conformación del Grupo para trabajar en la **Estrategia General, Planeación y Conformación".
+Javier también propone tiempos para la conformación del Grupo para trabajar en la **Estrategia General, Planeación y Conformación".
 
-La primera fase incluye:
+_La primera fase incluye_:
 
 - Documento de conformacion del grupo, puestos, objetivos, etc.;
 
@@ -192,7 +192,7 @@ La primera fase incluye:
 
 - Recursos Económicos para el Programa.
 
-La segunda fase incluye:
+_La segunda fase incluye_:
 
 - Inicio de funciones;
 
@@ -200,7 +200,7 @@ La segunda fase incluye:
 
 - Reportes mensuales.
 
-Y La tercera fase incluye:
+_Y La tercera fase incluye_:
 
 - Presentación de resultados anuales  y análisis.
 
@@ -208,8 +208,6 @@ Y La tercera fase incluye:
 Al respecto se espera en breve el llamado para la conformaciòn del grupo.
 
 
+También como parte de los acuerdos, el biól. José Juan Domínguez compartió el documento "PROTOCOLO NACIONAL DE ATENCION A CONFLICTOS CON COCODRILIANOS EN MÉXICO".
 
-
-
-José Juan Domínguez compartió el documento "PROTOCOLO NACIONAL DE ATENCION A CONFLICTOS CON COCODRILIANOS EN MÉXICO".
 

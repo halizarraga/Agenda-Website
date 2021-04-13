@@ -3,7 +3,7 @@ title: "Sub Agenda de Residuos Solidos"
 description: |
   En este blog se presentan los trabajos relacionados con la mesa temática de Residuos Sólidos
 author:
-  - name: Héctor A. Lizáraga Cubedo
+  - name: Héctor A. Lizárraga Cubedo
     url: http://ceakumal.org
   - name: Elizabeth Bautista Vega
     url: http://ceakumal.org
@@ -134,7 +134,7 @@ Como parte de los Lineamientos para la realización de esta primera etapa se pro
 
 - El consultor Juan Canul, tienen copia en la Dir. de Ordenamiento Ambiental y Cambio Climático del H. Ayuntaminto de Tulum.
 
-- Programa de Punto Limpios, impulsa Tulum Sostenible, a partir del 2019, capta aproximadamente 1ton de residuos reciclables (por módulo) con 2 módulos en la actualidad y en 2021 se tendrían 12. Un módulo por colonia, elegidas de acuerdo a un criterio de participación ciudadana con análisis de zonas urbanas. Tienen señalización para cada módulo, con 6-7 categorías. Infraestructura es de desecho de metal con polialuminio compactado.
+- **"Programa de Punto Limpios"**, impulsa Tulum Sostenible, a partir del 2019, capta aproximadamente 1ton de residuos reciclables (por módulo) con 2 módulos en la actualidad y en 2021 se tendrían 12. Un módulo por colonia, elegidas de acuerdo a un criterio de participación ciudadana con análisis de zonas urbanas. Tienen señalización para cada módulo, con 6-7 categorías. Infraestructura es de desecho de metal con polialuminio compactado.
 
 
 - Esta dirigido a ciudadanos-domicilios, no a empresas. 
@@ -472,7 +472,7 @@ ggplot(pw1,aes(Residuo, Peso, fill = Residuo)) +
 
 
  
-```{r TallerRS3.1, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center', fig.cap="Evidencia fotográfica del tercer taller de Residuos Sólidos de la Agenda Ecológica",  results = 'asis'}
+```{r TallerRS3a, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center', fig.cap="Evidencia fotográfica del tercer taller de Residuos Sólidos de la Agenda Ecológica",  results = 'asis'}
 library(knitr)
 
 knitr::include_graphics(here("../Agenda Website/images/RS-3er-taller1-4-25-03-21.png"))
@@ -617,7 +617,7 @@ knitr::include_graphics(here("../Agenda Website/images/RS-4to-taller-6-04-21.png
 - "Permiso de Operación Ambiental", basado en el Reglamento de Ecolgía, Mitigación y Adaptación al Cambio Climático condiciona a los establecimientos comerciales y/o servicios deberán de solicitar dicho Permiso de Operación.
 
 
-```{r TallerRS4.2, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center',  fig.cap="Presentación del programa de Residuos del Municipio de Tulum ", results = 'asis'}
+```{r TallerRS4b, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center',  fig.cap="Presentación del programa de Residuos del Municipio de Tulum ", results = 'asis'}
 library(knitr)
 library(here)
 
@@ -627,4 +627,7 @@ knitr::include_graphics(here("../Agenda Website/images/RS-4to-taller-6-04-21-1-5
 ```
 
 
+ Por último, Karla Acevedo comenta que **NO** hay sitio para disposición final de materiales de construcción que es la segunda actividad económica del municipio. Así también la falta de una estrategia conjunta de difusión de la normatividad existente para los distintos sectores del municipio.
+ 
+ 
  

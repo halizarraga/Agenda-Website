@@ -3,7 +3,7 @@ title: "Sub Agenda de Áreas Naturales Protegidas"
 description: |
   En este blog se presentan los trabajos relacionados con la mesa temática de Áreas Naturales Protegidas.
 author:
-  - name: Héctor A. Lizáraga Cubedo
+  - name: Héctor A. Lizárraga Cubedo
     url: http://ceakumal.org
   - name: Gonzalo Merediz Alonso
     url: https://www.amigosdesiankaan.org
@@ -40,7 +40,7 @@ stickerANP
 # Subagenda Áreas Naturales Protegidas
 
 
- La subagenda de Áreas Naturales Protegidas es parte de la Agenda Ecológica que Coordina **Héctor A. Lizárraga Cubedo**, director del [Centro Ecológico Akumal](htpp://ceakumal.org).  El coordinador de esta subagenda es el **M. en C. Gonzalo Merediz Alonso**, quien actualmente es Director de Amigos de Sian ka 'an [Amigos de Sian Kann](https://www.amigosdesiankaan.org).
+ La subagenda de Áreas Naturales Protegidas es parte de la Agenda Ecológica que Coordina **Héctor A. Lizárraga Cubedo**, director del [Centro Ecológico Akumal](htpp://ceakumal.org).  El coordinador de esta subagenda es el **M. en C. Gonzalo Merediz Alonso**, quien actualmente es Director de [Amigos de Sian ka 'an](https://www.amigosdesiankaan.org).
 
 Gonzalo tomó posesión como coordinador de la **sub agenda de Áreas Naturales Protegidas**  27 de febrero de 2021 en el Hotel Akumal Bay & Wellness Resort.
 
@@ -112,18 +112,18 @@ Como parte de los Lineamientos para la realización de esta primera etapa se pro
 ### Acuerdos del primer taller (9-mar-21)
 
 Este primer taller trató la importancia de considerar en cualquier programa de trabajo municipal el tema de la Conectividad. Los asistentes resaltaron también la necesidad de bscar esquemas innovadores de políticas públicas para incentivar la creación de nuevas áreas naturales protegidas en el municipio. Sin embargo, se debe de contar con un esquema eficiente de Inspección y Vigilancia para su operación y Manejo. Al respecto Filppo menciona que sí existen esquemas de Co-Manejo donde las comunidades coadyuvan en el manejo de las ANPs, en particular en Otox Ma'x Yetel Koo, la cual tiene varios objetos importantes de conservación. 
-El comanejo aunque esta contemplado en la ley no sea impulsado apropiadamente pero podría ser una muy buena opción. Para ello es importante una mejor comunicación con las comunidades para que conozcan la importancia de las ANPs.
+El Co-manejo aunque esta contemplado en la ley no se ha impulsado apropiadamente pero podría ser una muy buena opción. Para ello es importante una mejor comunicación con las comunidades para que conozcan la importancia de las ANPs.
 
-Los Ordenamientos aunque suponen un compromiso entre el gobierno y socieda no han dimensionado eficientemente el tema de la conectividad, los objetos de cosnervación  y no permiten impulsar en decreto de las ANPs. 
+Los Ordenamientos aunque suponen un compromiso entre el gobierno y sociedad no han dimensionado eficientemente el tema de la conectividad, los objetos de conservación  y no permiten impulsar el decreto de las ANPs. 
 
-El tema de la Reserva hidrgeológica del Norte del Estado que se propuso originalmente en 2008, tal vez no sea un tema a impulsar en el corto plazo, de acuerdo a los presentes, ya que se requiere mayor información sbre los beneficios que este esquema de conservación implica, sobretodo en la falta de esquemas de financiamiento o incentivos fiscales.
+El tema de la Reserva hidrogeológica del Norte del Estado que se propuso originalmente en 2008, tal vez no sea un tema a impulsar en el corto plazo, de acuerdo a los presentes, ya que se requiere mayor información sobre los beneficios que este esquema de conservación implica, sobretodo ante la falta de esquemas de financiamiento o incentivos fiscales claros.
 
 
 
 ## SEGUNDO TALLER DE ÁREAS NATURALES PROTEGIDAS
 
 
-```{r TallerANP2, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center',fig.cap="Primer taller de Áreas Naturales Protegidas de la Agenda Ecológica", results = 'asis'}
+```{r TallerANP2, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center',fig.cap="Segundo taller de Áreas Naturales Protegidas de la Agenda Ecológica", results = 'asis'}
 library(knitr)
 library(here)
 
@@ -151,11 +151,11 @@ knitr::include_graphics(here("../Agenda Website/images/ANP-2.png"))
 
 ### Acuerdos del segundo taller (31-mar-21)
 
-En este taller Héctor Lizárraga compartió la información disponible pública sobre las ANPs decretadas en el municipio, de carácter públicas, con información sobre nombre y categoría del ANP, fecha de decreto, superficie, si cuenta con Programa de Manejo, si cuenta con categorías especiales como Sitio Ramsar o Patrimonio de la Humanidad. Y se trató la posibilidad de promover el establecimiento de Áreas Voluntarias de Conservación privadas o Ejidales. ara el municiio este último esquema, con gran potencial, no ha sido impulsado.
+En este taller Héctor Lizárraga compartió la información disponible pública sobre las ANPs decretadas en el municipio, de carácter públicas, con información sobre nombre y categoría del ANP, fecha de decreto, superficie, si cuenta con Programa de Manejo, si cuenta con categorías especiales como Sitio Ramsar o Patrimonio de la Humanidad. Y se trató la posibilidad de promover el establecimiento de _Áreas Voluntarias de Conservación Privadas o Ejidales_. ara el municiio este último esquema, con gran potencial, no ha sido impulsado.
 
 
 
-También se consultó las **"MEMORIAS DEL TALLER PARA CONSOLIDAR LA RED DE ÁREAS VOLUNTARIAS DE CONSERVACIÓN EN LA PENÍNSULA DE YUCATÁN (https://www.biodiversidad.gob.mx/corredor/pdf/PROFORCO/36-Memoria-Chetumal.pdf"**. En dicho documento se promueve ka red de Áreas de Conserevación privadas o ejidales, resaltando que estos ejercicios han sido posibles en municipios como Othón P. Blanco, José maría Morelos y Felipe Carrillo Puerto, en Quintana Roo. En Tulum NO existe ninguna área de conservación de éste tipo.
+También se consultó las **"MEMORIAS DEL TALLER PARA CONSOLIDAR LA RED DE ÁREAS VOLUNTARIAS DE CONSERVACIÓN EN LA PENÍNSULA DE YUCATÁN (https://www.biodiversidad.gob.mx/corredor/pdf/PROFORCO/36-Memoria-Chetumal.pdf"**. En dicho documento se promueve la red de Áreas de Conservación Privadas o Ejidales, resaltando que estos ejercicios han sido posibles en municipios como Othón P. Blanco, José María Morelos y Felipe Carrillo Puerto, en Quintana Roo. En Tulum **NO** existe ningun área de conservación de éste tipo.
 
 
 ```{r ANP2.2, echo=FALSE, message=FALSE, fig.align='center', warning=FALSE}
@@ -174,27 +174,33 @@ kable(head(anps, 15), digits = 2, caption = "Información de las ANPs decretadas
 
 
 
-Propuesta de acción en ANP, posiblemente impusar algún ANP, sobre todo en conservación de agua.
+Propuesta de acción en ANP, posiblemente impulsar algún ANP, sobre todo en conservación del recurso hídrico.
 
-En Pta Allen, se eta dotando de un sistema solar. El Mpio se tiene que sumar. Se requiere de liderazgo del mpio y sumarse a una estructura de gobernanza, ejemplo de manejo comunitario.
 
-Posiblemente no impulsar la reserva HG tal vez no propuesta como fue originalmente propuesta.
+En Punta Allen, Amigos de Sian Ka 'an ha trabajado para que se dote de un sistema solar, proyecto que el Municipio de Tulum debería de liderar, sobretodo en aporte económico y de gestión. Al respecto, se requiere del liderazgo del municipio para sumarse a una estructura de gobernanza, ejemplo de manejo comunitario.
 
-Platicar mas sobre los incentivos fiscales, mpio y congreso del edo. Con la sema ver los mecanismos de incentivos fiscales para desarrollar. Posiblemente ver los impuestosu otros mecanismos de recaudación.
+
+Posiblemente no impulsar la Reserva Hidrogeológica, del Norte del Estado (propuesta original en 2008 de SEMA), como fue originalmente propuesta, y considerar los tiempos.
+
+
+Platicar mas sobre los incentivos fiscales con el municipio y el congreso del estado. Con la SEMA ver los mecanismos de incentivos fiscales para desarrollar o impuestos u otros mecanismos de recaudación.
+
 
 Tratar de armar una estrategia de recaudación-incentivos para que la próxima administración la impulse. 
 
+
 Se preguntó a Pablo Careaga sobre la consideración del proyecto sobre la conservación de los ecosistemas. El áreas ambiental del proyeco tiene la información. La sugerencia es contactar a los responsables. 
 
-Programa de reubicación de árboles de la carretera.
 
-Ser cuidadosos en presentar nuevas propuestas de ANPs, trabajar mas en una estrategia.
+El proyecto del Tren Maya tiene en particular el "Programa de reubicación de árboles de la carretera", que podría ser considerado dentro de la agenda.
+
+
+Ser cuidadosos en presentar nuevas propuestas de ANPs sin antes contar con una estrategia definida.
+
 
 Proponer los esquemas privados de conservación. No hay un programa de largo plazo de incentivo de pagos.
 
-Imlupsar la conservación de los valores naturales.
-
-Pasos de fauna, considerarlos en la Agenda no solo en el contexto del proyecto del tren Maya.
+Impulsar la conservación de los valores naturales y los pasos de fauna, considerarlos en la Agenda no solo en el contexto del proyecto del tren Maya.
 
 
 

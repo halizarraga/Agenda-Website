@@ -3,7 +3,7 @@ title: "Agenda Ecológica"
 description: |
   Descripción de la Agenda Ecológica.
 author:
-  - name: Héctor A. Lizáraga Cubedo
+  - name: Héctor A. Lizárraga Cubedo
     url: http://ceakumal.org
 date: 04-07-2021
 output:
