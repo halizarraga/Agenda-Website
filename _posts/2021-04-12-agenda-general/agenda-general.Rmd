@@ -3,6 +3,8 @@ title: "Agenda General"
 description: |
   Modelo de la Agenda para el Desarrollo Sustentable de Tulum
 author:
+  - name: León R. Lizárraga Cubedo
+    url: http://www.iapqroo.org.mx
   - name: Héctor A. Lizárraga Cubedo
     url: http://ceakumal.org
 date: 04-07-2021
