@@ -3,7 +3,7 @@ title: "Agenda General"
 description: |
   Modelo de la Agenda para el Desarrollo Sustentable de Tulum
 author:
-  - name: Héctor A. Lizáraga Cubedo
+  - name: Héctor A. Lizárraga Cubedo
     url: http://ceakumal.org
 date: 04-07-2021
 output:
@@ -16,7 +16,7 @@ lang: es
 
 
 
-En este blog se plasma el contenido  de la Agenda ciudadana para el Desarrollo Sustentable de Tulum. Dicha agenda es una de las *seis* agendas o ejes temáticos de la **"AGENDA PARA EL DESARROLLO SUSTENTABLE DE TULUM"**, la cual es producto de la alianza entre las asociaciones civiles [Asociación de Hoteles de Tulum](www.ahtulum.com) y el [Instituto de Administración Pública de Quintana Roo](www.iapqroo.org.mx) para generar un modelo rector para una eficiente gestión muncipal partiendo de un enfoque técnico y social.
+En este blog se plasma el contenido  de la Agenda ciudadana para el Desarrollo Sustentable de Tulum. Dicha agenda es una de las *seis* agendas o ejes temáticos de la **"AGENDA PARA EL DESARROLLO SUSTENTABLE DE TULUM"**, la cual es producto de la alianza entre las asociaciones civiles [Asociación de Hoteles de Tulum](www.ahtulum.com) y el [Instituto de Administración Pública de Quintana Roo](www.iapqroo.org.mx) para generar un modelo rector para una eficiente gestión municipal partiendo de un enfoque técnico y social.
 
 
 

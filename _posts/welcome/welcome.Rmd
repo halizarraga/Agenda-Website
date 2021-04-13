@@ -3,7 +3,7 @@ title: "Bienvenido a la Agenda Ecológica"
 description: |
   En este blog se plasma el contenido principal de la Agenda Ecológica, una de las sies agendas de la "Agenda para el Desarrollo Sustentable de Tulum".
 author:
-  - name: Héctor A. Lizáraga Cubedo
+  - name: Héctor A. Lizárraga Cubedo
     affiliation:  Centro Ecológico Akumal
     affiliation_url: http://ceakumal.org
 date: 04-07-2021

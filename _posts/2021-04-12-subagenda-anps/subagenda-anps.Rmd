@@ -123,7 +123,7 @@ El tema de la Reserva hidrogeológica del Norte del Estado que se propuso origin
 ## SEGUNDO TALLER DE ÁREAS NATURALES PROTEGIDAS
 
 
-```{r TallerANP2, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center',fig.cap="Segundo taller de Áreas Naturales Protegidas de la Agenda Ecológica", results = 'asis'}
+```{r TallerANP2a, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center',fig.cap="Segundo taller de Áreas Naturales Protegidas de la Agenda Ecológica", results = 'asis'}
 library(knitr)
 library(here)
 
@@ -158,7 +158,7 @@ En este taller Héctor Lizárraga compartió la información disponible pública
 También se consultó las **"MEMORIAS DEL TALLER PARA CONSOLIDAR LA RED DE ÁREAS VOLUNTARIAS DE CONSERVACIÓN EN LA PENÍNSULA DE YUCATÁN (https://www.biodiversidad.gob.mx/corredor/pdf/PROFORCO/36-Memoria-Chetumal.pdf"**. En dicho documento se promueve la red de Áreas de Conservación Privadas o Ejidales, resaltando que estos ejercicios han sido posibles en municipios como Othón P. Blanco, José María Morelos y Felipe Carrillo Puerto, en Quintana Roo. En Tulum **NO** existe ningun área de conservación de éste tipo.
 
 
-```{r ANP2.2, echo=FALSE, message=FALSE, fig.align='center', warning=FALSE}
+```{r ANP2b, echo=FALSE, message=FALSE, fig.align='center', warning=FALSE}
 
 library(kableExtra)
 
@@ -204,7 +204,7 @@ Impulsar la conservación de los valores naturales y los pasos de fauna, conside
 
 
 
-```{r TallerANP2.3, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center',fig.cap="Evidencia del segundo taller de Áreas Naturales Protegidas de la Agenda Ecológica", results = 'asis'}
+```{r TallerANP2c, echo=FALSE, warning=FALSE,message=FALSE, fig.align='center',fig.cap="Evidencia del segundo taller de Áreas Naturales Protegidas de la Agenda Ecológica", results = 'asis'}
 library(knitr)
 library(here)
 
