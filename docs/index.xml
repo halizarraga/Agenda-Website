@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>Blog de la Agenda Ecologica</title>
+    <link>https://halizarraga.github.io/Agenda-Website/</link>
+    <atom:link href="https://halizarraga.github.io/Agenda-Website/index.xml" rel="self" type="application/rss+xml"/>
+    <description>Blog de la Agenda Ecologica
+</description>
+    <generator>Distill</generator>
+    <lastBuildDate>Thu, 08 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Sub Agenda de Áreas Naturales Protegidas</title>
+      <dc:creator>Héctor A. Lizárraga Cubedo</dc:creator>
+      <dc:creator>Gonzalo Merediz Alonso</dc:creator>
+      <link>https://halizarraga.github.io/Agenda-Website/posts/2021-04-12-subagenda-anps</link>
+      <description>En este blog se presentan los trabajos relacionados con la mesa temática de Áreas Naturales Protegidas.</description>
+      <guid>https://halizarraga.github.io/Agenda-Website/posts/2021-04-12-subagenda-anps</guid>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://halizarraga.github.io/Agenda-Website/posts/2021-04-12-subagenda-anps/distill-preview.png" medium="image" type="image/png"/>
+    </item>
+    <item>
+      <title>Sub Agenda de Biodiversidad</title>
+      <dc:creator>Héctor A. Lizárraga Cubedo</dc:creator>
+      <dc:creator>Marco A. Lazcano Barrero</dc:creator>
+      <link>https://halizarraga.github.io/Agenda-Website/posts/2021-04-12-subagenda-biodiversidad</link>
+      <description>En este blog se presentan los trabajos relacionados con la mesa temática de Biodiversidad.</description>
+      <guid>https://halizarraga.github.io/Agenda-Website/posts/2021-04-12-subagenda-biodiversidad</guid>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://halizarraga.github.io/Agenda-Website/posts/2021-04-12-subagenda-biodiversidad/distill-preview.png" medium="image" type="image/png" width="1248" height="768"/>
+    </item>
+    <item>
+      <title>Sub Agenda de Cambio Climático y Sargazo</title>
+      <dc:creator>Héctor A. Lizárraga Cubedo</dc:creator>
+      <dc:creator>Olmo Torres Talamantes</dc:creator>
+      <link>https://halizarraga.github.io/Agenda-Website/posts/2021-04-12-subagenda-cc</link>
+      <description>En este blog se presentan los trabajos relacionados con la mesa temática de Cambio Climático y Sargazo.</description>
+      <guid>https://halizarraga.github.io/Agenda-Website/posts/2021-04-12-subagenda-cc</guid>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://halizarraga.github.io/Agenda-Website/posts/2021-04-12-subagenda-cc/distill-preview.png" medium="image" type="image/png"/>
+    </item>
+    <item>
+      <title>Sub Agenda de Economías Alternativas y Educación Ambiental</title>
+      <dc:creator>Héctor A. Lizárraga Cubedo</dc:creator>
+      <dc:creator>Alejandra Cornejo Cornejo</dc:creator>
+      <link>https://halizarraga.github.io/Agenda-Website/posts/2021-04-12-subagenda-economias</link>
+      <description>En este blog se presentan los trabajos relacionados con la mesa temática TRANSVERSAL de Economías Alternativas y Educación Ambiental.</description>
+      <guid>https://halizarraga.github.io/Agenda-Website/posts/2021-04-12-subagenda-economias</guid>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://halizarraga.github.io/Agenda-Website/posts/2021-04-12-subagenda-economias/distill-preview.png" medium="image" type="image/png"/>
+    </item>
+    <item>
+      <title>Sub Agenda de Sustentabilidad de Agua, Aire y Suelo</title>
+      <dc:creator>Héctor A. Lizárraga Cubedo</dc:creator>
+      <dc:creator>Alejandro López Tamayo</dc:creator>
+      <link>https://halizarraga.github.io/Agenda-Website/posts/2021-04-12-subagenda-agua</link>
+      <description>En este blog se presentan los trabajos relacionados con la mesa temática de Sustentabilidad de Agua, Aire y Suelo.</description>
+      <guid>https://halizarraga.github.io/Agenda-Website/posts/2021-04-12-subagenda-agua</guid>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://halizarraga.github.io/Agenda-Website/posts/2021-04-12-subagenda-agua/distill-preview.png" medium="image" type="image/png"/>
+    </item>
+    <item>
+      <title>Agenda General</title>
+      <dc:creator>Héctor A. Lizárraga Cubedo</dc:creator>
+      <link>https://halizarraga.github.io/Agenda-Website/posts/2021-04-12-agenda-general</link>
+      <description>Modelo de la Agenda para el Desarrollo Sustentable de Tulum</description>
+      <guid>https://halizarraga.github.io/Agenda-Website/posts/2021-04-12-agenda-general</guid>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://halizarraga.github.io/Agenda-Website/posts/2021-04-12-agenda-general/distill-preview.png" medium="image" type="image/png"/>
+    </item>
+    <item>
+      <title>Bienvenido a la Agenda Ecológica</title>
+      <dc:creator>Héctor A. Lizárraga Cubedo</dc:creator>
+      <link>https://halizarraga.github.io/Agenda-Website/posts/welcome</link>
+      <description>En este blog se plasma el contenido principal de la Agenda Ecológica, una de las sies agendas de la "Agenda para el Desarrollo Sustentable de Tulum".</description>
+      <guid>https://halizarraga.github.io/Agenda-Website/posts/welcome</guid>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://halizarraga.github.io/Agenda-Website/posts/welcome/welcome_files/figure-html5/Welcomesticker-1.png" medium="image" type="image/png"/>
+    </item>
+    <item>
+      <title>Agenda Ecológica</title>
+      <dc:creator>Héctor A. Lizárraga Cubedo</dc:creator>
+      <link>https://halizarraga.github.io/Agenda-Website/posts/2021-04-12-agenda-ecologica</link>
+      <description>Descripción de la Agenda Ecológica.</description>
+      <guid>https://halizarraga.github.io/Agenda-Website/posts/2021-04-12-agenda-ecologica</guid>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://halizarraga.github.io/Agenda-Website/posts/2021-04-12-agenda-ecologica/distill-preview.png" medium="image" type="image/png"/>
+    </item>
+    <item>
+      <title>Sub Agenda de Residuos Solidos</title>
+      <dc:creator>Héctor A. Lizárraga Cubedo</dc:creator>
+      <dc:creator>Elizabeth Bautista Vega</dc:creator>
+      <link>https://halizarraga.github.io/Agenda-Website/posts/2021-04-12-subagenda-residuos</link>
+      <description>En este blog se presentan los trabajos relacionados con la mesa temática de Residuos Sólidos</description>
+      <guid>https://halizarraga.github.io/Agenda-Website/posts/2021-04-12-subagenda-residuos</guid>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      <media:content url="https://halizarraga.github.io/Agenda-Website/posts/2021-04-12-subagenda-residuos/distill-preview.png" medium="image" type="image/png"/>
+    </item>
+  </channel>
+</rss>
