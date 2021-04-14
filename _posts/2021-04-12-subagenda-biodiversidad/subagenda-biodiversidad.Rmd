@@ -9,7 +9,8 @@ author:
     url: https://jaguarconservation.mx/marco-a-lazcano-barrero
 date: 04-08-2021
 output:
-  distill::distill_article: default
+  distill::distill_article:
+    theme: biotheme.css
   html_document: 
     fig_width: 8
     fig_height: 7
